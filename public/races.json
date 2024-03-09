@@ -1,5 +1,5 @@
-[
-  {
+{
+  "im703-durban": {
     "id": "im703-durban",
     "name": "70.3 Durban",
     "series": "IRONMAN-70.3",
@@ -38,7 +38,7 @@
       }
     ]
   },
-  {
+  "im703-astana": {
     "id": "im703-astana",
     "name": "70.3 Astana",
     "series": "IRONMAN-70.3",
@@ -61,7 +61,7 @@
       }
     ]
   },
-  {
+  "im703-bahrain": {
     "id": "im703-bahrain",
     "name": "70.3 Middle East Championship Bahrain",
     "series": "IRONMAN-70.3",
@@ -96,7 +96,7 @@
       }
     ]
   },
-  {
+  "im703-bangsaen": {
     "id": "im703-bangsaen",
     "name": "70.3 Bangsaen, Thailand",
     "series": "IRONMAN-70.3",
@@ -115,7 +115,7 @@
       }
     ]
   },
-  {
+  "im703-davao-philippines": {
     "id": "im703-davao-philippines",
     "name": "70.3 Davao Philippines",
     "series": "IRONMAN-70.3",
@@ -134,7 +134,7 @@
       }
     ]
   },
-  {
+  "im703-desaru-coast": {
     "id": "im703-desaru-coast",
     "name": "70.3 Desaru Coast",
     "series": "IRONMAN-70.3",
@@ -149,7 +149,7 @@
       }
     ]
   },
-  {
+  "im703-dubai": {
     "id": "im703-dubai",
     "name": "70.3 Dubai",
     "series": "IRONMAN-70.3",
@@ -184,7 +184,7 @@
       }
     ]
   },
-  {
+  "im703-goa": {
     "id": "im703-goa",
     "name": "70.3 Goa",
     "series": "IRONMAN-70.3",
@@ -203,7 +203,7 @@
       }
     ]
   },
-  {
+  "im703-goseong": {
     "id": "im703-goseong",
     "name": "70.3 Goseong",
     "series": "IRONMAN-70.3",
@@ -222,7 +222,7 @@
       }
     ]
   },
-  {
+  "im703-langkawi": {
     "id": "im703-langkawi",
     "name": "70.3 Langkawi",
     "series": "IRONMAN-70.3",
@@ -249,7 +249,7 @@
       }
     ]
   },
-  {
+  "im703-japan": {
     "id": "im703-japan",
     "name": "70.3 Japan",
     "series": "IRONMAN-70.3",
@@ -292,7 +292,7 @@
       }
     ]
   },
-  {
+  "im703-oman": {
     "id": "im703-oman",
     "name": "70.3 Oman",
     "series": "IRONMAN-70.3",
@@ -319,7 +319,7 @@
       }
     ]
   },
-  {
+  "im703-subic-bay-philippines": {
     "id": "im703-subic-bay-philippines",
     "name": "70.3 Subic Bay",
     "series": "IRONMAN-70.3",
@@ -354,7 +354,7 @@
       }
     ]
   },
-  {
+  "im703-turkey": {
     "id": "im703-turkey",
     "name": "70.3 T\u00fcrkiye",
     "series": "IRONMAN-70.3",
@@ -397,7 +397,7 @@
       }
     ]
   },
-  {
+  "im703-vietnam": {
     "id": "im703-vietnam",
     "name": "70.3 Viet Nam",
     "series": "IRONMAN-70.3",
@@ -432,7 +432,7 @@
       }
     ]
   },
-  {
+  "im703-aix-en-provence": {
     "id": "im703-aix-en-provence",
     "name": "70.3 Aix-en-Provence",
     "series": "IRONMAN-70.3",
@@ -475,7 +475,7 @@
       }
     ]
   },
-  {
+  "im703-mallorca": {
     "id": "im703-mallorca",
     "name": "70.3 Alc\u00fadia-Mallorca",
     "series": "IRONMAN-70.3",
@@ -510,7 +510,7 @@
       }
     ]
   },
-  {
+  "im703-cascais": {
     "id": "im703-cascais",
     "name": "70.3 Portugal - Cascais",
     "series": "IRONMAN-70.3",
@@ -541,7 +541,7 @@
       }
     ]
   },
-  {
+  "im703-elsinore": {
     "id": "im703-elsinore",
     "name": "70.3 Elsinore",
     "series": "IRONMAN-70.3",
@@ -584,7 +584,7 @@
       }
     ]
   },
-  {
+  "im703-finland": {
     "id": "im703-finland",
     "name": "70.3 Lahti",
     "series": "IRONMAN-70.3",
@@ -611,7 +611,7 @@
       }
     ]
   },
-  {
+  "im703-gdynia": {
     "id": "im703-gdynia",
     "name": "70.3 Gdynia",
     "series": "IRONMAN-70.3",
@@ -654,7 +654,7 @@
       }
     ]
   },
-  {
+  "im703-vouliagmeni": {
     "id": "im703-vouliagmeni",
     "name": "70.3 Vouliagmeni, Greece",
     "series": "IRONMAN-70.3",
@@ -669,7 +669,7 @@
       }
     ]
   },
-  {
+  "im703-emilia-romagna": {
     "id": "im703-emilia-romagna",
     "name": "70.3 Italy Emilia-Romagna",
     "series": "IRONMAN-70.3",
@@ -692,7 +692,7 @@
       }
     ]
   },
-  {
+  "im703-jonkoping": {
     "id": "im703-jonkoping",
     "name": "70.3 Jonkoping",
     "series": "IRONMAN-70.3",
@@ -727,7 +727,7 @@
       }
     ]
   },
-  {
+  "im703-kraichgau": {
     "id": "im703-kraichgau",
     "name": "70.3 Kraichgau",
     "series": "IRONMAN-70.3",
@@ -766,7 +766,7 @@
       }
     ]
   },
-  {
+  "im703-les-sables-dolonne": {
     "id": "im703-les-sables-dolonne",
     "name": "70.3 Les Sables d'Olonne-Vend\u00e9e",
     "series": "IRONMAN-70.3",
@@ -793,7 +793,7 @@
       }
     ]
   },
-  {
+  "im703-luxembourg": {
     "id": "im703-luxembourg",
     "name": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
     "series": "IRONMAN-70.3",
@@ -840,7 +840,7 @@
       }
     ]
   },
-  {
+  "im703-marbella": {
     "id": "im703-marbella",
     "name": "70.3 Marbella",
     "series": "IRONMAN-70.3",
@@ -867,7 +867,7 @@
       }
     ]
   },
-  {
+  "im703-nice": {
     "id": "im703-nice",
     "name": "70.3 Nice",
     "series": "IRONMAN-70.3",
@@ -890,7 +890,7 @@
       }
     ]
   },
-  {
+  "im703-switzerland": {
     "id": "im703-switzerland",
     "name": "70.3 Switzerland",
     "series": "IRONMAN-70.3",
@@ -925,7 +925,7 @@
       }
     ]
   },
-  {
+  "im703-westfriesland": {
     "id": "im703-westfriesland",
     "name": "70.3 Westfriesland",
     "series": "IRONMAN-70.3",
@@ -948,7 +948,7 @@
       }
     ]
   },
-  {
+  "im703-vichy": {
     "id": "im703-vichy",
     "name": "70.3 Vichy",
     "series": "IRONMAN-70.3",
@@ -987,7 +987,7 @@
       }
     ]
   },
-  {
+  "im703-warsaw": {
     "id": "im703-warsaw",
     "name": "70.3 Warsaw",
     "series": "IRONMAN-70.3",
@@ -1006,7 +1006,7 @@
       }
     ]
   },
-  {
+  "im703-weymouth": {
     "id": "im703-weymouth",
     "name": "70.3 Weymouth",
     "series": "IRONMAN-70.3",
@@ -1041,7 +1041,7 @@
       }
     ]
   },
-  {
+  "im703-zell-am-see": {
     "id": "im703-zell-am-see",
     "name": "70.3 Zell am See-Kaprun",
     "series": "IRONMAN-70.3",
@@ -1092,7 +1092,7 @@
       }
     ]
   },
-  {
+  "im703-calgary": {
     "id": "im703-calgary",
     "name": "70.3 Calgary",
     "series": "IRONMAN-70.3",
@@ -1115,7 +1115,7 @@
       }
     ]
   },
-  {
+  "im703-augusta": {
     "id": "im703-augusta",
     "name": "70.3 Augusta",
     "series": "IRONMAN-70.3",
@@ -1166,7 +1166,7 @@
       }
     ]
   },
-  {
+  "im703-boulder": {
     "id": "im703-boulder",
     "name": "70.3 Boulder",
     "series": "IRONMAN-70.3",
@@ -1217,7 +1217,7 @@
       }
     ]
   },
-  {
+  "im703-chattanooga": {
     "id": "im703-chattanooga",
     "name": "70.3 Chattanooga",
     "series": "IRONMAN-70.3",
@@ -1256,7 +1256,7 @@
       }
     ]
   },
-  {
+  "im703-cozumel": {
     "id": "im703-cozumel",
     "name": "70.3 Cozumel",
     "series": "IRONMAN-70.3",
@@ -1311,7 +1311,7 @@
       }
     ]
   },
-  {
+  "im703-eagleman": {
     "id": "im703-eagleman",
     "name": "70.3 Eagleman",
     "series": "IRONMAN-70.3",
@@ -1362,7 +1362,7 @@
       }
     ]
   },
-  {
+  "im703-florida": {
     "id": "im703-florida",
     "name": "70.3 Florida",
     "series": "IRONMAN-70.3",
@@ -1413,7 +1413,7 @@
       }
     ]
   },
-  {
+  "im703-gulf-coast": {
     "id": "im703-gulf-coast",
     "name": "70.3 Gulf Coast",
     "series": "IRONMAN-70.3",
@@ -1448,7 +1448,7 @@
       }
     ]
   },
-  {
+  "im703-indian-wells": {
     "id": "im703-indian-wells",
     "name": "70.3 Indian Wells La Quinta",
     "series": "IRONMAN-70.3",
@@ -1475,7 +1475,7 @@
       }
     ]
   },
-  {
+  "im703-hawaii": {
     "id": "im703-hawaii",
     "name": "70.3 Hawaii",
     "series": "IRONMAN-70.3",
@@ -1526,7 +1526,7 @@
       }
     ]
   },
-  {
+  "im703-los-cabos": {
     "id": "im703-los-cabos",
     "name": "70.3 Los Cabos",
     "series": "IRONMAN-70.3",
@@ -1557,7 +1557,7 @@
       }
     ]
   },
-  {
+  "im703-maine": {
     "id": "im703-maine",
     "name": "70.3 Maine",
     "series": "IRONMAN-70.3",
@@ -1588,7 +1588,7 @@
       }
     ]
   },
-  {
+  "im703-morro-bay": {
     "id": "im703-morro-bay",
     "name": "70.3 Morro Bay",
     "series": "IRONMAN-70.3",
@@ -1599,7 +1599,7 @@
       }
     ]
   },
-  {
+  "im703-mont-tremblant": {
     "id": "im703-mont-tremblant",
     "name": "70.3 Mont Tremblant",
     "series": "IRONMAN-70.3",
@@ -1646,7 +1646,7 @@
       }
     ]
   },
-  {
+  "im703-monterrey": {
     "id": "im703-monterrey",
     "name": "70.3 Monterrey",
     "series": "IRONMAN-70.3",
@@ -1689,7 +1689,7 @@
       }
     ]
   },
-  {
+  "im703-muncie": {
     "id": "im703-muncie",
     "name": "70.3 Muncie",
     "series": "IRONMAN-70.3",
@@ -1740,7 +1740,7 @@
       }
     ]
   },
-  {
+  "im703-muskoka": {
     "id": "im703-muskoka",
     "name": "70.3 Muskoka",
     "series": "IRONMAN-70.3",
@@ -1791,7 +1791,7 @@
       }
     ]
   },
-  {
+  "im703-north-carolina": {
     "id": "im703-north-carolina",
     "name": "70.3 North Carolina",
     "series": "IRONMAN-70.3",
@@ -1830,7 +1830,7 @@
       }
     ]
   },
-  {
+  "im703-pennsylvania": {
     "id": "im703-pennsylvania",
     "name": "70.3 Pennsylvania Happy Valley",
     "series": "IRONMAN-70.3",
@@ -1841,7 +1841,7 @@
       }
     ]
   },
-  {
+  "im703-ohio": {
     "id": "im703-ohio",
     "name": "70.3 Ohio",
     "series": "IRONMAN-70.3",
@@ -1876,7 +1876,7 @@
       }
     ]
   },
-  {
+  "im703-oceanside": {
     "id": "im703-oceanside",
     "name": "70.3 Oceanside",
     "series": "IRONMAN-70.3",
@@ -1927,7 +1927,7 @@
       }
     ]
   },
-  {
+  "im703-puerto-rico": {
     "id": "im703-puerto-rico",
     "name": "70.3 Puerto Rico",
     "series": "IRONMAN-70.3",
@@ -1974,7 +1974,7 @@
       }
     ]
   },
-  {
+  "im703-santa-cruz": {
     "id": "im703-santa-cruz",
     "name": "70.3 Santa Cruz",
     "series": "IRONMAN-70.3",
@@ -2013,7 +2013,7 @@
       }
     ]
   },
-  {
+  "im703-st-george": {
     "id": "im703-st-george",
     "name": "70.3 North American Championship St. George",
     "series": "IRONMAN-70.3",
@@ -2056,7 +2056,7 @@
       }
     ]
   },
-  {
+  "im703-michigan": {
     "id": "im703-michigan",
     "name": "70.3 Michigan",
     "series": "IRONMAN-70.3",
@@ -2079,7 +2079,7 @@
       }
     ]
   },
-  {
+  "im703-texas": {
     "id": "im703-texas",
     "name": "70.3 Texas",
     "series": "IRONMAN-70.3",
@@ -2130,7 +2130,7 @@
       }
     ]
   },
-  {
+  "im703-victoria": {
     "id": "im703-victoria",
     "name": "70.3 Victoria",
     "series": "IRONMAN-70.3",
@@ -2169,7 +2169,7 @@
       }
     ]
   },
-  {
+  "im703-waco": {
     "id": "im703-waco",
     "name": "70.3 Waco",
     "series": "IRONMAN-70.3",
@@ -2196,7 +2196,7 @@
       }
     ]
   },
-  {
+  "im703-wisconsin": {
     "id": "im703-wisconsin",
     "name": "70.3 Wisconsin",
     "series": "IRONMAN-70.3",
@@ -2227,7 +2227,7 @@
       }
     ]
   },
-  {
+  "im703-cairns": {
     "id": "im703-cairns",
     "name": "70.3 Cairns",
     "series": "IRONMAN-70.3",
@@ -2282,7 +2282,7 @@
       }
     ]
   },
-  {
+  "im703-geelong": {
     "id": "im703-geelong",
     "name": "70.3 Geelong",
     "series": "IRONMAN-70.3",
@@ -2321,7 +2321,7 @@
       }
     ]
   },
-  {
+  "im703-port-macquarie": {
     "id": "im703-port-macquarie",
     "name": "70.3 Port Macquarie",
     "series": "IRONMAN-70.3",
@@ -2368,7 +2368,7 @@
       }
     ]
   },
-  {
+  "im703-egypt": {
     "id": "im703-egypt",
     "name": "70.3 Egypt",
     "series": "IRONMAN-70.3",
@@ -2387,7 +2387,7 @@
       }
     ]
   },
-  {
+  "im703-sunshine-coast": {
     "id": "im703-sunshine-coast",
     "name": "70.3 Sunshine Coast",
     "series": "IRONMAN-70.3",
@@ -2434,7 +2434,7 @@
       }
     ]
   },
-  {
+  "im703-taupo": {
     "id": "im703-taupo",
     "name": "70.3 Taupo",
     "series": "IRONMAN-70.3",
@@ -2465,7 +2465,7 @@
       }
     ]
   },
-  {
+  "im703-buenos-aires": {
     "id": "im703-buenos-aires",
     "name": "70.3 Buenos Aires",
     "series": "IRONMAN-70.3",
@@ -2492,7 +2492,7 @@
       }
     ]
   },
-  {
+  "im703-western-sydney": {
     "id": "im703-western-sydney",
     "name": "70.3 Western Sydney",
     "series": "IRONMAN-70.3",
@@ -2527,7 +2527,7 @@
       }
     ]
   },
-  {
+  "im703-cartagena": {
     "id": "im703-cartagena",
     "name": "70.3 Cartagena",
     "series": "IRONMAN-70.3",
@@ -2562,7 +2562,7 @@
       }
     ]
   },
-  {
+  "im703-ecuador": {
     "id": "im703-ecuador",
     "name": "70.3 Ecuador",
     "series": "IRONMAN-70.3",
@@ -2597,7 +2597,7 @@
       }
     ]
   },
-  {
+  "im703-florianopolis": {
     "id": "im703-florianopolis",
     "name": "70.3 Florian\u00f3polis",
     "series": "IRONMAN-70.3",
@@ -2620,7 +2620,7 @@
       }
     ]
   },
-  {
+  "im703-maceio": {
     "id": "im703-maceio",
     "name": "70.3 Macei\u00f3",
     "series": "IRONMAN-70.3",
@@ -2639,7 +2639,7 @@
       }
     ]
   },
-  {
+  "im703-fortaleza": {
     "id": "im703-fortaleza",
     "name": "70.3 Fortaleza",
     "series": "IRONMAN-70.3",
@@ -2666,7 +2666,7 @@
       }
     ]
   },
-  {
+  "im703-panama": {
     "id": "im703-panama",
     "name": "70.3 Panama",
     "series": "IRONMAN-70.3",
@@ -2697,7 +2697,7 @@
       }
     ]
   },
-  {
+  "im703-peru": {
     "id": "im703-peru",
     "name": "70.3 Peru",
     "series": "IRONMAN-70.3",
@@ -2720,7 +2720,7 @@
       }
     ]
   },
-  {
+  "im703-punta-del-este": {
     "id": "im703-punta-del-este",
     "name": "70.3 Punta del Este",
     "series": "IRONMAN-70.3",
@@ -2751,7 +2751,7 @@
       }
     ]
   },
-  {
+  "im703-pucon": {
     "id": "im703-pucon",
     "name": "70.3 Pucon",
     "series": "IRONMAN-70.3",
@@ -2794,7 +2794,7 @@
       }
     ]
   },
-  {
+  "im703-sao-paulo": {
     "id": "im703-sao-paulo",
     "name": "70.3 S\u00e3o Paulo",
     "series": "IRONMAN-70.3",
@@ -2813,7 +2813,7 @@
       }
     ]
   },
-  {
+  "im703-duisburg": {
     "id": "im703-duisburg",
     "name": "70.3 Duisburg",
     "series": "IRONMAN-70.3",
@@ -2832,7 +2832,7 @@
       }
     ]
   },
-  {
+  "im703-tallinn": {
     "id": "im703-tallinn",
     "name": "70.3 European Championship Tallinn",
     "series": "IRONMAN-70.3",
@@ -2855,7 +2855,7 @@
       }
     ]
   },
-  {
+  "im703-tasmania": {
     "id": "im703-tasmania",
     "name": "70.3 Tasmania",
     "series": "IRONMAN-70.3",
@@ -2870,7 +2870,7 @@
       }
     ]
   },
-  {
+  "im703-salalah": {
     "id": "im703-salalah",
     "name": "70.3 Salalah",
     "series": "IRONMAN-70.3",
@@ -2885,7 +2885,7 @@
       }
     ]
   },
-  {
+  "im703-rio-de-janeiro": {
     "id": "im703-rio-de-janeiro",
     "name": "70.3 Rio de Janeiro",
     "series": "IRONMAN-70.3",
@@ -2920,7 +2920,7 @@
       }
     ]
   },
-  {
+  "im703-ireland": {
     "id": "im703-ireland",
     "name": "70.3 Ireland, Cork",
     "series": "IRONMAN-70.3",
@@ -2935,7 +2935,7 @@
       }
     ]
   },
-  {
+  "im703-venice-jesolo": {
     "id": "im703-venice-jesolo",
     "name": "70.3 Venice-Jesolo",
     "series": "IRONMAN-70.3",
@@ -2954,7 +2954,7 @@
       }
     ]
   },
-  {
+  "im703-acapulco": {
     "id": "im703-acapulco",
     "name": "70.3 Acapulco",
     "series": "IRONMAN-70.3",
@@ -2973,7 +2973,7 @@
       }
     ]
   },
-  {
+  "im703-musselman": {
     "id": "im703-musselman",
     "name": "70.3 Musselman",
     "series": "IRONMAN-70.3",
@@ -2992,7 +2992,7 @@
       }
     ]
   },
-  {
+  "im-california": {
     "id": "im-california",
     "name": "IRONMAN California",
     "series": "IRONMAN",
@@ -3007,7 +3007,7 @@
       }
     ]
   },
-  {
+  "im-south-africa": {
     "id": "im-south-africa",
     "name": "IRONMAN African Championship",
     "series": "IRONMAN",
@@ -3026,7 +3026,7 @@
       }
     ]
   },
-  {
+  "im-australia": {
     "id": "im-australia",
     "name": "IRONMAN Australia",
     "series": "IRONMAN",
@@ -3069,7 +3069,7 @@
       }
     ]
   },
-  {
+  "im-arizona": {
     "id": "im-arizona",
     "name": "IRONMAN Arizona",
     "series": "IRONMAN",
@@ -3120,7 +3120,7 @@
       }
     ]
   },
-  {
+  "im-cairns": {
     "id": "im-cairns",
     "name": "IRONMAN Cairns",
     "series": "IRONMAN",
@@ -3175,7 +3175,7 @@
       }
     ]
   },
-  {
+  "im-austria": {
     "id": "im-austria",
     "name": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
     "series": "IRONMAN",
@@ -3226,7 +3226,7 @@
       }
     ]
   },
-  {
+  "im-barcelona": {
     "id": "im-barcelona",
     "name": "IRONMAN Calella-Barcelona",
     "series": "IRONMAN",
@@ -3269,7 +3269,7 @@
       }
     ]
   },
-  {
+  "im-canada": {
     "id": "im-canada",
     "name": "IRONMAN Canada Penticton",
     "series": "IRONMAN",
@@ -3312,7 +3312,7 @@
       }
     ]
   },
-  {
+  "im-brazil": {
     "id": "im-brazil",
     "name": "IRONMAN Brazil",
     "series": "IRONMAN",
@@ -3359,7 +3359,7 @@
       }
     ]
   },
-  {
+  "im-chattanooga": {
     "id": "im-chattanooga",
     "name": "IRONMAN Chattanooga",
     "series": "IRONMAN",
@@ -3402,7 +3402,7 @@
       }
     ]
   },
-  {
+  "im-emilia-romagna": {
     "id": "im-emilia-romagna",
     "name": "IRONMAN Italy Emilia-Romagna",
     "series": "IRONMAN",
@@ -3433,7 +3433,7 @@
       }
     ]
   },
-  {
+  "im-copenhagen": {
     "id": "im-copenhagen",
     "name": "IRONMAN Copenhagen",
     "series": "IRONMAN",
@@ -3480,7 +3480,7 @@
       }
     ]
   },
-  {
+  "im-cozumel": {
     "id": "im-cozumel",
     "name": "IRONMAN Cozumel",
     "series": "IRONMAN",
@@ -3535,7 +3535,7 @@
       }
     ]
   },
-  {
+  "im-frankfurt": {
     "id": "im-frankfurt",
     "name": "IRONMAN European Championship Frankfurt",
     "series": "IRONMAN",
@@ -3586,7 +3586,7 @@
       }
     ]
   },
-  {
+  "im-gurye": {
     "id": "im-gurye",
     "name": "IRONMAN Gurye",
     "series": "IRONMAN",
@@ -3609,7 +3609,7 @@
       }
     ]
   },
-  {
+  "im-france": {
     "id": "im-france",
     "name": "IRONMAN France Nice",
     "series": "IRONMAN",
@@ -3652,7 +3652,7 @@
       }
     ]
   },
-  {
+  "im-ireland": {
     "id": "im-ireland",
     "name": "IRONMAN Ireland, Cork",
     "series": "IRONMAN",
@@ -3671,7 +3671,7 @@
       }
     ]
   },
-  {
+  "im-hamburg": {
     "id": "im-hamburg",
     "name": "IRONMAN European Championship Hamburg",
     "series": "IRONMAN",
@@ -3702,7 +3702,7 @@
       }
     ]
   },
-  {
+  "im-florida": {
     "id": "im-florida",
     "name": "IRONMAN Florida",
     "series": "IRONMAN",
@@ -3757,7 +3757,7 @@
       }
     ]
   },
-  {
+  "im-kalmar": {
     "id": "im-kalmar",
     "name": "IRONMAN Kalmar",
     "series": "IRONMAN",
@@ -3804,7 +3804,7 @@
       }
     ]
   },
-  {
+  "im-lanzarote": {
     "id": "im-lanzarote",
     "name": "IRONMAN Lanzarote",
     "series": "IRONMAN",
@@ -3855,7 +3855,7 @@
       }
     ]
   },
-  {
+  "im-malaysia": {
     "id": "im-malaysia",
     "name": "IRONMAN Malaysia",
     "series": "IRONMAN",
@@ -3902,7 +3902,7 @@
       }
     ]
   },
-  {
+  "im-lake-placid": {
     "id": "im-lake-placid",
     "name": "IRONMAN Lake Placid",
     "series": "IRONMAN",
@@ -3953,7 +3953,7 @@
       }
     ]
   },
-  {
+  "im-philippines": {
     "id": "im-philippines",
     "name": "IRONMAN Philippines",
     "series": "IRONMAN",
@@ -3972,7 +3972,7 @@
       }
     ]
   },
-  {
+  "im-maryland": {
     "id": "im-maryland",
     "name": "IRONMAN Maryland",
     "series": "IRONMAN",
@@ -4015,7 +4015,7 @@
       }
     ]
   },
-  {
+  "im-switzerland": {
     "id": "im-switzerland",
     "name": "IRONMAN Switzerland Thun",
     "series": "IRONMAN",
@@ -4042,7 +4042,7 @@
       }
     ]
   },
-  {
+  "im-taiwan": {
     "id": "im-taiwan",
     "name": "IRONMAN Taiwan",
     "series": "IRONMAN",
@@ -4073,7 +4073,7 @@
       }
     ]
   },
-  {
+  "im-tallinn": {
     "id": "im-tallinn",
     "name": "IRONMAN Tallinn",
     "series": "IRONMAN",
@@ -4104,7 +4104,7 @@
       }
     ]
   },
-  {
+  "im-vitoria": {
     "id": "im-vitoria",
     "name": "IRONMAN Vitoria-Gasteiz",
     "series": "IRONMAN",
@@ -4127,7 +4127,7 @@
       }
     ]
   },
-  {
+  "im-kazakhstan": {
     "id": "im-kazakhstan",
     "name": "IRONMAN Kazakhstan",
     "series": "IRONMAN",
@@ -4142,7 +4142,7 @@
       }
     ]
   },
-  {
+  "im-wales": {
     "id": "im-wales",
     "name": "IRONMAN Wales",
     "series": "IRONMAN",
@@ -4189,7 +4189,7 @@
       }
     ]
   },
-  {
+  "im-cascais": {
     "id": "im-cascais",
     "name": "IRONMAN Portugal - Cascais",
     "series": "IRONMAN",
@@ -4208,7 +4208,7 @@
       }
     ]
   },
-  {
+  "im-finland": {
     "id": "im-finland",
     "name": "IRONMAN Finland, Kuopio-Tahko",
     "series": "IRONMAN",
@@ -4223,7 +4223,7 @@
       }
     ]
   },
-  {
+  "im-texas": {
     "id": "im-texas",
     "name": "IRONMAN Texas - North American Championship",
     "series": "IRONMAN",
@@ -4274,7 +4274,7 @@
       }
     ]
   },
-  {
+  "5150-cervia": {
     "id": "5150-cervia",
     "name": "5150-Triathlon-Series Cervia",
     "series": "5150-Triathlon-Series",
@@ -4301,7 +4301,7 @@
       }
     ]
   },
-  {
+  "im-wisconsin": {
     "id": "im-wisconsin",
     "name": "IRONMAN Wisconsin",
     "series": "IRONMAN",
@@ -4352,7 +4352,7 @@
       }
     ]
   },
-  {
+  "5150-cartagena": {
     "id": "5150-cartagena",
     "name": "5150-Triathlon-Series Cartagena",
     "series": "5150-Triathlon-Series",
@@ -4363,7 +4363,7 @@
       }
     ]
   },
-  {
+  "5150-kraichgau": {
     "id": "5150-kraichgau",
     "name": "5150-Triathlon-Series Kraichgau",
     "series": "5150-Triathlon-Series",
@@ -4398,7 +4398,7 @@
       }
     ]
   },
-  {
+  "5150-warsaw": {
     "id": "5150-warsaw",
     "name": "5150-Triathlon-Series Warsaw",
     "series": "5150-Triathlon-Series",
@@ -4425,7 +4425,7 @@
       }
     ]
   },
-  {
+  "5150-buenos-aires": {
     "id": "5150-buenos-aires",
     "name": "5150-Triathlon-Series Buenos Aires",
     "series": "5150-Triathlon-Series",
@@ -4448,7 +4448,7 @@
       }
     ]
   },
-  {
+  "5150-subic-bay-philippines": {
     "id": "5150-subic-bay-philippines",
     "name": "5150-Triathlon-Series Subic Bay",
     "series": "5150-Triathlon-Series",
@@ -4463,7 +4463,7 @@
       }
     ]
   },
-  {
+  "5150-desaru-coast": {
     "id": "5150-desaru-coast",
     "name": "5150-Triathlon-Series Desaru Coast",
     "series": "5150-Triathlon-Series",
@@ -4478,7 +4478,7 @@
       }
     ]
   },
-  {
+  "5150-mont-tremblant": {
     "id": "5150-mont-tremblant",
     "name": "5150-Triathlon-Series Mont Tremblant",
     "series": "5150-Triathlon-Series",
@@ -4505,7 +4505,7 @@
       }
     ]
   },
-  {
+  "5150-bohol": {
     "id": "5150-bohol",
     "name": "5150-Triathlon-Series Bohol",
     "series": "5150-Triathlon-Series",
@@ -4520,7 +4520,7 @@
       }
     ]
   },
-  {
+  "5150-camsur": {
     "id": "5150-camsur",
     "name": "5150-Triathlon-Series Camsur",
     "series": "5150-Triathlon-Series",
@@ -4535,7 +4535,7 @@
       }
     ]
   },
-  {
+  "5150-dapitan-philippines": {
     "id": "5150-dapitan-philippines",
     "name": "5150-Triathlon-Series Dapitan",
     "series": "5150-Triathlon-Series",
@@ -4550,7 +4550,7 @@
       }
     ]
   },
-  {
+  "5150-westfriesland": {
     "id": "5150-westfriesland",
     "name": "5150-Triathlon-Series Westfriesland",
     "series": "5150-Triathlon-Series",
@@ -4573,7 +4573,7 @@
       }
     ]
   },
-  {
+  "im-israel": {
     "id": "im-israel",
     "name": "IRONMAN Israel Middle East Championship",
     "series": "IRONMAN",
@@ -4584,7 +4584,7 @@
       }
     ]
   },
-  {
+  "im703-tiberias": {
     "id": "im703-tiberias",
     "name": "70.3 Tiberias, Sea of Galilee",
     "series": "IRONMAN-70.3",
@@ -4599,7 +4599,7 @@
       }
     ]
   },
-  {
+  "im703-oregon": {
     "id": "im703-oregon",
     "name": "70.3 Oregon",
     "series": "IRONMAN-70.3",
@@ -4618,7 +4618,7 @@
       }
     ]
   },
-  {
+  "im703-dresden": {
     "id": "im703-dresden",
     "name": "70.3 Dresden",
     "series": "IRONMAN-70.3",
@@ -4629,7 +4629,7 @@
       }
     ]
   },
-  {
+  "im703-mossel-bay": {
     "id": "im703-mossel-bay",
     "name": "70.3 Mossel Bay - African TriClub Championship",
     "series": "IRONMAN-70.3",
@@ -4644,7 +4644,7 @@
       }
     ]
   },
-  {
+  "im703-new-zealand": {
     "id": "im703-new-zealand",
     "name": "70.3 New Zealand",
     "series": "IRONMAN-70.3",
@@ -4679,7 +4679,7 @@
       }
     ]
   },
-  {
+  "im703-swansea": {
     "id": "im703-swansea",
     "name": "70.3 Swansea",
     "series": "IRONMAN-70.3",
@@ -4694,7 +4694,7 @@
       }
     ]
   },
-  {
+  "im703-erkner": {
     "id": "im703-erkner",
     "name": "70.3 Erkner",
     "series": "IRONMAN-70.3",
@@ -4709,7 +4709,7 @@
       }
     ]
   },
-  {
+  "5150-erkner": {
     "id": "5150-erkner",
     "name": "5150-Triathlon-Series Erkner",
     "series": "5150-Triathlon-Series",
@@ -4724,7 +4724,7 @@
       }
     ]
   },
-  {
+  "im-new-zealand": {
     "id": "im-new-zealand",
     "name": "IRONMAN New Zealand",
     "series": "IRONMAN",
@@ -4779,7 +4779,7 @@
       }
     ]
   },
-  {
+  "im703-western-australia": {
     "id": "im703-western-australia",
     "name": "70.3 Western Australia",
     "series": "IRONMAN-70.3",
@@ -4810,7 +4810,7 @@
       }
     ]
   },
-  {
+  "im703-melbourne": {
     "id": "im703-melbourne",
     "name": "70.3 Melbourne",
     "series": "IRONMAN-70.3",
@@ -4825,7 +4825,7 @@
       }
     ]
   },
-  {
+  "im703-nelson-mandela-bay": {
     "id": "im703-nelson-mandela-bay",
     "name": "70.3 Nelson Mandela Bay",
     "series": "IRONMAN-70.3",
@@ -4840,7 +4840,7 @@
       }
     ]
   },
-  {
+  "im-western-australia": {
     "id": "im-western-australia",
     "name": "IRONMAN Western Australia",
     "series": "IRONMAN",
@@ -4891,7 +4891,7 @@
       }
     ]
   },
-  {
+  "im703-san-juan": {
     "id": "im703-san-juan",
     "name": "70.3 San Juan",
     "series": "IRONMAN-70.3",
@@ -4906,7 +4906,7 @@
       }
     ]
   },
-  {
+  "im703-croatia": {
     "id": "im703-croatia",
     "name": "70.3 Porec",
     "series": "IRONMAN-70.3",
@@ -4921,7 +4921,7 @@
       }
     ]
   },
-  {
+  "im703-tangier": {
     "id": "im703-tangier",
     "name": "70.3 Tangier",
     "series": "IRONMAN-70.3",
@@ -4936,7 +4936,7 @@
       }
     ]
   },
-  {
+  "im703-poznan": {
     "id": "im703-poznan",
     "name": "70.3 Poznan",
     "series": "IRONMAN-70.3",
@@ -4951,7 +4951,7 @@
       }
     ]
   },
-  {
+  "im703-rwanda": {
     "id": "im703-rwanda",
     "name": "70.3 Rwanda",
     "series": "IRONMAN-70.3",
@@ -4966,7 +4966,7 @@
       }
     ]
   },
-  {
+  "5150-poznan": {
     "id": "5150-poznan",
     "name": "5150-Triathlon-Series Poznan",
     "series": "5150-Triathlon-Series",
@@ -4981,7 +4981,7 @@
       }
     ]
   },
-  {
+  "im703-puerto-princesa": {
     "id": "im703-puerto-princesa",
     "name": "70.3 Puerto Princesa",
     "series": "IRONMAN-70.3",
@@ -4996,7 +4996,7 @@
       }
     ]
   },
-  {
+  "im703-knokke-heist": {
     "id": "im703-knokke-heist",
     "name": "70.3 Knokke-Heist, Belgium",
     "series": "IRONMAN-70.3",
@@ -5007,7 +5007,7 @@
       }
     ]
   },
-  {
+  "5150-knokke-heist": {
     "id": "5150-knokke-heist",
     "name": "5150-Triathlon-Series Knokke-Heist",
     "series": "5150-Triathlon-Series",
@@ -5022,7 +5022,7 @@
       }
     ]
   },
-  {
+  "im703-western-massachusetts": {
     "id": "im703-western-massachusetts",
     "name": "70.3 Western Massachusetts",
     "series": "IRONMAN-70.3",
@@ -5033,7 +5033,7 @@
       }
     ]
   },
-  {
+  "im703-des-moines": {
     "id": "im703-des-moines",
     "name": "70.3 Des Moines",
     "series": "IRONMAN-70.3",
@@ -5048,7 +5048,7 @@
       }
     ]
   },
-  {
+  "5150-egypt": {
     "id": "5150-egypt",
     "name": "5150-Triathlon-Series Egypt",
     "series": "5150-Triathlon-Series",
@@ -5063,7 +5063,7 @@
       }
     ]
   },
-  {
+  "im703-phu-quoc": {
     "id": "im703-phu-quoc",
     "name": "70.3 Phu Quoc",
     "series": "IRONMAN-70.3",
@@ -5074,7 +5074,7 @@
       }
     ]
   },
-  {
+  "im703-coeur-dalene": {
     "id": "im703-coeur-dalene",
     "name": "70.3 Coeur d'Alene",
     "series": "IRONMAN-70.3",
@@ -5089,7 +5089,7 @@
       }
     ]
   },
-  {
+  "im703-bolton": {
     "id": "im703-bolton",
     "name": "70.3 Bolton",
     "series": "IRONMAN-70.3",
@@ -5100,7 +5100,7 @@
       }
     ]
   },
-  {
+  "im703-campeche": {
     "id": "im703-campeche",
     "name": "70.3 Campeche",
     "series": "IRONMAN-70.3",
@@ -5123,7 +5123,7 @@
       }
     ]
   },
-  {
+  "im703-cap-cana": {
     "id": "im703-cap-cana",
     "name": "70.3 Cap Cana",
     "series": "IRONMAN-70.3",
@@ -5134,7 +5134,7 @@
       }
     ]
   },
-  {
+  "im703-louisville": {
     "id": "im703-louisville",
     "name": "70.3 Louisville",
     "series": "IRONMAN-70.3",
@@ -5145,7 +5145,7 @@
       }
     ]
   },
-  {
+  "im703-valencia": {
     "id": "im703-valencia",
     "name": "70.3 Valencia",
     "series": "IRONMAN-70.3",
@@ -5156,7 +5156,7 @@
       }
     ]
   },
-  {
+  "im703-cebu-philippines": {
     "id": "im703-cebu-philippines",
     "name": "70.3 Lapu-Lapu",
     "series": "IRONMAN-70.3",
@@ -5199,7 +5199,7 @@
       }
     ]
   },
-  {
+  "im703-washington-tri-cities": {
     "id": "im703-washington-tri-cities",
     "name": "70.3 Washington Tri-Cities",
     "series": "IRONMAN-70.3",
@@ -5214,7 +5214,7 @@
       }
     ]
   },
-  {
+  "im-alaska": {
     "id": "im-alaska",
     "name": "IRONMAN Alaska",
     "series": "IRONMAN",
@@ -5225,7 +5225,7 @@
       }
     ]
   },
-  {
+  "im-maastricht-limburg": {
     "id": "im-maastricht-limburg",
     "name": "IRONMAN Maastricht-Limburg",
     "series": "IRONMAN",
@@ -5236,7 +5236,7 @@
       }
     ]
   },
-  {
+  "im-boulder": {
     "id": "im-boulder",
     "name": "IRONMAN Boulder\u00a0",
     "series": "IRONMAN",
@@ -5267,7 +5267,7 @@
       }
     ]
   },
-  {
+  "im-aix-en-provence": {
     "id": "im-aix-en-provence",
     "name": "IRONMAN Pays d'Aix-en-Provence",
     "series": "IRONMAN",
@@ -5278,7 +5278,7 @@
       }
     ]
   },
-  {
+  "im-indiana": {
     "id": "im-indiana",
     "name": "IRONMAN Indiana",
     "series": "IRONMAN",
@@ -5321,7 +5321,7 @@
       }
     ]
   },
-  {
+  "im-mallorca": {
     "id": "im-mallorca",
     "name": "IRONMAN Mallorca",
     "series": "IRONMAN",
@@ -5348,7 +5348,7 @@
       }
     ]
   },
-  {
+  "im-santa-rosa": {
     "id": "im-santa-rosa",
     "name": "IRONMAN Santa Rosa",
     "series": "IRONMAN",
@@ -5367,7 +5367,7 @@
       }
     ]
   },
-  {
+  "im-tulsa": {
     "id": "im-tulsa",
     "name": "IRONMAN Tulsa",
     "series": "IRONMAN",
@@ -5386,7 +5386,7 @@
       }
     ]
   },
-  {
+  "im703-andorra": {
     "id": "im703-andorra",
     "name": "70.3 Andorra",
     "series": "IRONMAN-70.3",
@@ -5405,7 +5405,7 @@
       }
     ]
   },
-  {
+  "im703-bariloche": {
     "id": "im703-bariloche",
     "name": "70.3 Bariloche",
     "series": "IRONMAN-70.3",
@@ -5424,7 +5424,7 @@
       }
     ]
   },
-  {
+  "im703-atlantic-city": {
     "id": "im703-atlantic-city",
     "name": "70.3 Atlantic City",
     "series": "IRONMAN-70.3",
@@ -5459,7 +5459,7 @@
       }
     ]
   },
-  {
+  "im-uk": {
     "id": "im-uk",
     "name": "IRONMAN UK",
     "series": "IRONMAN",
@@ -5510,7 +5510,7 @@
       }
     ]
   },
-  {
+  "im703-bintan": {
     "id": "im703-bintan",
     "name": "70.3 Bintan",
     "series": "IRONMAN-70.3",
@@ -5537,7 +5537,7 @@
       }
     ]
   },
-  {
+  "im703-barcelona": {
     "id": "im703-barcelona",
     "name": "70.3 Barcelona",
     "series": "IRONMAN-70.3",
@@ -5580,7 +5580,7 @@
       }
     ]
   },
-  {
+  "im703-colombo": {
     "id": "im703-colombo",
     "name": "70.3 Colombo",
     "series": "IRONMAN-70.3",
@@ -5595,7 +5595,7 @@
       }
     ]
   },
-  {
+  "im703-connecticut": {
     "id": "im703-connecticut",
     "name": "70.3 Connecticut",
     "series": "IRONMAN-70.3",
@@ -5606,7 +5606,7 @@
       }
     ]
   },
-  {
+  "im703-coquimbo": {
     "id": "im703-coquimbo",
     "name": "70.3 Coquimbo",
     "series": "IRONMAN-70.3",
@@ -5625,7 +5625,7 @@
       }
     ]
   },
-  {
+  "im703-busselton": {
     "id": "im703-busselton",
     "name": "70.3 Busselton",
     "series": "IRONMAN-70.3",
@@ -5644,7 +5644,7 @@
       }
     ]
   },
-  {
+  "im703-greece": {
     "id": "im703-greece",
     "name": "70.3 Greece, Costa Navarino",
     "series": "IRONMAN-70.3",
@@ -5659,7 +5659,7 @@
       }
     ]
   },
-  {
+  "im703-lombok": {
     "id": "im703-lombok",
     "name": "70.3 Lombok",
     "series": "IRONMAN-70.3",
@@ -5670,7 +5670,7 @@
       }
     ]
   },
-  {
+  "im703-lubbock": {
     "id": "im703-lubbock",
     "name": "70.3 Lubbock",
     "series": "IRONMAN-70.3",
@@ -5689,7 +5689,7 @@
       }
     ]
   },
-  {
+  "im703-otepaa": {
     "id": "im703-otepaa",
     "name": "70.3 Otep\u00e4\u00e4",
     "series": "IRONMAN-70.3",
@@ -5712,7 +5712,7 @@
       }
     ]
   },
-  {
+  "im703-sandnes": {
     "id": "im703-sandnes",
     "name": "70.3 Sandnes",
     "series": "IRONMAN-70.3",
@@ -5727,7 +5727,7 @@
       }
     ]
   },
-  {
+  "im703-sardegna": {
     "id": "im703-sardegna",
     "name": "70.3 Sardegna",
     "series": "IRONMAN-70.3",
@@ -5742,7 +5742,7 @@
       }
     ]
   },
-  {
+  "im703-slovenian-istria": {
     "id": "im703-slovenian-istria",
     "name": "70.3 Slovenian Istria",
     "series": "IRONMAN-70.3",
@@ -5761,7 +5761,7 @@
       }
     ]
   },
-  {
+  "im703-st-petersburg": {
     "id": "im703-st-petersburg",
     "name": "70.3 St. Petersburg",
     "series": "IRONMAN-70.3",
@@ -5772,7 +5772,7 @@
       }
     ]
   },
-  {
+  "im703-staffordshire": {
     "id": "im703-staffordshire",
     "name": "70.3 Staffordshire",
     "series": "IRONMAN-70.3",
@@ -5811,7 +5811,7 @@
       }
     ]
   },
-  {
+  "im703-steelhead": {
     "id": "im703-steelhead",
     "name": "70.3 Steelhead",
     "series": "IRONMAN-70.3",
@@ -5858,7 +5858,7 @@
       }
     ]
   },
-  {
+  "im703-superfrog": {
     "id": "im703-superfrog",
     "name": "70.3 Superfrog",
     "series": "IRONMAN-70.3",
@@ -5889,7 +5889,7 @@
       }
     ]
   },
-  {
+  "im703-taitung": {
     "id": "im703-taitung",
     "name": "70.3 Taitung",
     "series": "IRONMAN-70.3",
@@ -5924,7 +5924,7 @@
       }
     ]
   },
-  {
+  "im703-virginia-blue-ridge": {
     "id": "im703-virginia-blue-ridge",
     "name": "70.3 Virginia Blue Ridge",
     "series": "IRONMAN-70.3",
@@ -5947,7 +5947,7 @@
       }
     ]
   },
-  {
+  "im703-timberman": {
     "id": "im703-timberman",
     "name": "70.3 Timberman",
     "series": "IRONMAN-70.3",
@@ -5986,7 +5986,7 @@
       }
     ]
   },
-  {
+  "im703-washington": {
     "id": "im703-washington",
     "name": "70.3 Washington",
     "series": "IRONMAN-70.3",
@@ -6005,7 +6005,7 @@
       }
     ]
   },
-  {
+  "5150-davao-philippines": {
     "id": "5150-davao-philippines",
     "name": "5150-Triathlon-Series Davao",
     "series": "5150-Triathlon-Series",
@@ -6020,7 +6020,7 @@
       }
     ]
   },
-  {
+  "5150-bela-bela": {
     "id": "5150-bela-bela",
     "name": "5150-Triathlon-Series Bela Bela",
     "series": "5150-Triathlon-Series",
@@ -6043,7 +6043,7 @@
       }
     ]
   },
-  {
+  "5150-ekurhuleni": {
     "id": "5150-ekurhuleni",
     "name": "5150-Triathlon-Series Ekurhuleni",
     "series": "5150-Triathlon-Series",
@@ -6058,7 +6058,7 @@
       }
     ]
   },
-  {
+  "5150-croatia": {
     "id": "5150-croatia",
     "name": "5150-Triathlon-Series Pore\u010d",
     "series": "5150-Triathlon-Series",
@@ -6073,7 +6073,7 @@
       }
     ]
   },
-  {
+  "superseal-triathlon": {
     "id": "superseal-triathlon",
     "name": "5150-Triathlon-Series SUPERSEAL",
     "series": "5150-Triathlon-Series",
@@ -6096,7 +6096,7 @@
       }
     ]
   },
-  {
+  "5150-zurich": {
     "id": "5150-zurich",
     "name": "5150-Triathlon-Series Z\u00fcrich",
     "series": "5150-Triathlon-Series",
@@ -6127,7 +6127,7 @@
       }
     ]
   },
-  {
+  "im703-kenting": {
     "id": "im703-kenting",
     "name": "70.3 Kenting",
     "series": "IRONMAN-70.3",
@@ -6146,7 +6146,7 @@
       }
     ]
   },
-  {
+  "im703-world-championship": {
     "id": "im703-world-championship",
     "name": "70.3 World Championship",
     "series": "IRONMAN-70.3",
@@ -6197,7 +6197,7 @@
       }
     ]
   },
-  {
+  "im-world-championship": {
     "id": "im-world-championship",
     "name": "IRONMAN World Championship",
     "series": "IRONMAN",
@@ -6252,4 +6252,4 @@
       }
     ]
   }
-]
+}
