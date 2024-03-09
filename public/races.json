@@ -1,0 +1,6255 @@
+[
+  {
+    "id": "im703-durban",
+    "name": "70.3 Durban",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2023"
+      },
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2022"
+      },
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2021"
+      },
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2019"
+      },
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2018"
+      },
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2017"
+      },
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2016"
+      },
+      {
+        "label": "70.3 Durban",
+        "id": "im703-durban-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-astana",
+    "name": "70.3 Astana",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Astana",
+        "id": "im703-astana-2023"
+      },
+      {
+        "label": "70.3 Astana",
+        "id": "im703-astana-2022"
+      },
+      {
+        "label": "70.3 Astana",
+        "id": "im703-astana-2019"
+      },
+      {
+        "label": "70.3 Astana",
+        "id": "im703-astana-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-bahrain",
+    "name": "70.3 Middle East Championship Bahrain",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Middle East Championship Bahrain",
+        "id": "im703-bahrain-2023"
+      },
+      {
+        "label": "70.3 Middle East Championship Bahrain",
+        "id": "im703-bahrain-2022"
+      },
+      {
+        "label": "70.3 Middle East Championship Bahrain",
+        "id": "im703-bahrain-2019"
+      },
+      {
+        "label": "70.3 Middle East Championship Bahrain",
+        "id": "im703-bahrain-2018"
+      },
+      {
+        "label": "70.3 Middle East Championship Bahrain",
+        "id": "im703-bahrain-2017"
+      },
+      {
+        "label": "70.3 Middle East Championship Bahrain",
+        "id": "im703-bahrain-2016"
+      },
+      {
+        "label": "70.3 Middle East Championship Bahrain",
+        "id": "im703-bahrain-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-bangsaen",
+    "name": "70.3 Bangsaen, Thailand",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Bangsaen, Thailand",
+        "id": "im703-bangsaen-2024"
+      },
+      {
+        "label": "70.3 Bangsaen, Thailand",
+        "id": "im703-bangsaen-2020"
+      },
+      {
+        "label": "70.3 Bangsaen, Thailand",
+        "id": "im703-bangsaen-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-davao-philippines",
+    "name": "70.3 Davao Philippines",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Davao Philippines",
+        "id": "im703-davao-philippines-2023"
+      },
+      {
+        "label": "70.3 Davao Philippines",
+        "id": "im703-davao-philippines-2019"
+      },
+      {
+        "label": "70.3 Davao Philippines",
+        "id": "im703-davao-philippines-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-desaru-coast",
+    "name": "70.3 Desaru Coast",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Desaru Coast",
+        "id": "im703-desaru-coast-2023"
+      },
+      {
+        "label": "70.3 Desaru Coast",
+        "id": "im703-desaru-coast-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-dubai",
+    "name": "70.3 Dubai",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Dubai",
+        "id": "im703-dubai-2022"
+      },
+      {
+        "label": "70.3 Dubai",
+        "id": "im703-dubai-2021"
+      },
+      {
+        "label": "70.3 Dubai",
+        "id": "im703-dubai-2020"
+      },
+      {
+        "label": "70.3 Dubai",
+        "id": "im703-dubai-2019"
+      },
+      {
+        "label": "70.3 Dubai",
+        "id": "im703-dubai-2018"
+      },
+      {
+        "label": "70.3 Dubai",
+        "id": "im703-dubai-2017"
+      },
+      {
+        "label": "70.3 Dubai",
+        "id": "im703-dubai-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-goa",
+    "name": "70.3 Goa",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Goa",
+        "id": "im703-goa-2023"
+      },
+      {
+        "label": "70.3 Goa",
+        "id": "im703-goa-2022"
+      },
+      {
+        "label": "70.3 Goa",
+        "id": "im703-goa-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-goseong",
+    "name": "70.3 Goseong",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Goseong",
+        "id": "im703-goseong-2023"
+      },
+      {
+        "label": "70.3 Goseong",
+        "id": "im703-goseong-2022"
+      },
+      {
+        "label": "70.3 Goseong",
+        "id": "im703-goseong-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-langkawi",
+    "name": "70.3 Langkawi",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Langkawi",
+        "id": "im703-langkawi-2023"
+      },
+      {
+        "label": "70.3 Langkawi",
+        "id": "im703-langkawi-2022"
+      },
+      {
+        "label": "70.3 Langkawi",
+        "id": "im703-langkawi-2019"
+      },
+      {
+        "label": "70.3 Langkawi",
+        "id": "im703-langkawi-2018"
+      },
+      {
+        "label": "70.3 Langkawi",
+        "id": "im703-langkawi-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-japan",
+    "name": "70.3 Japan",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2023"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2019"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2018"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2017"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2016"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2015"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2014"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2013"
+      },
+      {
+        "label": "70.3 Japan",
+        "id": "im703-japan-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-oman",
+    "name": "70.3 Oman",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Oman",
+        "id": "im703-oman-2024"
+      },
+      {
+        "label": "70.3 Oman",
+        "id": "im703-oman-2023"
+      },
+      {
+        "label": "70.3 Oman",
+        "id": "im703-oman-2022"
+      },
+      {
+        "label": "70.3 Oman",
+        "id": "im703-oman-2020"
+      },
+      {
+        "label": "70.3 Oman",
+        "id": "im703-oman-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-subic-bay-philippines",
+    "name": "70.3 Subic Bay",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Subic Bay",
+        "id": "im703-subic-bay-philippines-2023"
+      },
+      {
+        "label": "70.3 Subic Bay",
+        "id": "im703-subic-bay-philippines-2022"
+      },
+      {
+        "label": "70.3 Subic Bay",
+        "id": "im703-subic-bay-philippines-2019"
+      },
+      {
+        "label": "70.3 Subic Bay",
+        "id": "im703-subic-bay-philippines-2018"
+      },
+      {
+        "label": "70.3 Subic Bay",
+        "id": "im703-subic-bay-philippines-2017"
+      },
+      {
+        "label": "70.3 Subic Bay",
+        "id": "im703-subic-bay-philippines-2016"
+      },
+      {
+        "label": "70.3 Subic Bay",
+        "id": "im703-subic-bay-philippines-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-turkey",
+    "name": "70.3 T\u00fcrkiye",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2023"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2022"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2021"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2020"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2019"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2018"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2017"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2016"
+      },
+      {
+        "label": "70.3 T\u00fcrkiye",
+        "id": "im703-turkey-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-vietnam",
+    "name": "70.3 Viet Nam",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Viet Nam",
+        "id": "im703-vietnam-2023"
+      },
+      {
+        "label": "70.3 Viet Nam",
+        "id": "im703-vietnam-2022"
+      },
+      {
+        "label": "70.3 Viet Nam",
+        "id": "im703-vietnam-2019"
+      },
+      {
+        "label": "70.3 Viet Nam",
+        "id": "im703-vietnam-2018"
+      },
+      {
+        "label": "70.3 Viet Nam",
+        "id": "im703-vietnam-2017"
+      },
+      {
+        "label": "70.3 Viet Nam",
+        "id": "im703-vietnam-2016"
+      },
+      {
+        "label": "70.3 Viet Nam",
+        "id": "im703-vietnam-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-aix-en-provence",
+    "name": "70.3 Aix-en-Provence",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2023"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2022"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2021"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2019"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2018"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2017"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2016"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2015"
+      },
+      {
+        "label": "70.3 Aix-en-Provence",
+        "id": "im703-aix-en-provence-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-mallorca",
+    "name": "70.3 Alc\u00fadia-Mallorca",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Alc\u00fadia-Mallorca",
+        "id": "im703-mallorca-2023"
+      },
+      {
+        "label": "70.3 Alc\u00fadia-Mallorca",
+        "id": "im703-mallorca-2022"
+      },
+      {
+        "label": "70.3 Alc\u00fadia-Mallorca",
+        "id": "im703-mallorca-2021"
+      },
+      {
+        "label": "70.3 Alc\u00fadia-Mallorca",
+        "id": "im703-mallorca-2019"
+      },
+      {
+        "label": "70.3 Alc\u00fadia-Mallorca",
+        "id": "im703-mallorca-2018"
+      },
+      {
+        "label": "70.3 Alc\u00fadia-Mallorca",
+        "id": "im703-mallorca-2017"
+      },
+      {
+        "label": "70.3 Alc\u00fadia-Mallorca",
+        "id": "im703-mallorca-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-cascais",
+    "name": "70.3 Portugal - Cascais",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Portugal - Cascais",
+        "id": "im703-cascais-2023"
+      },
+      {
+        "label": "70.3 Portugal - Cascais",
+        "id": "im703-cascais-2022"
+      },
+      {
+        "label": "70.3 Portugal - Cascais",
+        "id": "im703-cascais-2021"
+      },
+      {
+        "label": "70.3 Portugal - Cascais",
+        "id": "im703-cascais-2019"
+      },
+      {
+        "label": "70.3 Portugal - Cascais",
+        "id": "im703-cascais-2018"
+      },
+      {
+        "label": "70.3 Portugal - Cascais",
+        "id": "im703-cascais-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-elsinore",
+    "name": "70.3 Elsinore",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2023"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2022"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2021"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2019"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2018"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2017"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2016"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2015"
+      },
+      {
+        "label": "70.3 Elsinore",
+        "id": "im703-elsinore-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-finland",
+    "name": "70.3 Lahti",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Lahti",
+        "id": "im703-finland-2023"
+      },
+      {
+        "label": "70.3 Lahti",
+        "id": "im703-finland-2022"
+      },
+      {
+        "label": "70.3 Lahti",
+        "id": "im703-finland-2021"
+      },
+      {
+        "label": "70.3 Lahti",
+        "id": "im703-finland-2019"
+      },
+      {
+        "label": "70.3 Lahti",
+        "id": "im703-finland-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-gdynia",
+    "name": "70.3 Gdynia",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2023"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2022"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2021"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2020"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2019"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2018"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2017"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2016"
+      },
+      {
+        "label": "70.3 Gdynia",
+        "id": "im703-gdynia-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-vouliagmeni",
+    "name": "70.3 Vouliagmeni, Greece",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Vouliagmeni, Greece",
+        "id": "im703-vouliagmeni-2023"
+      },
+      {
+        "label": "70.3 Vouliagmeni, Greece",
+        "id": "im703-vouliagmeni-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-emilia-romagna",
+    "name": "70.3 Italy Emilia-Romagna",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Italy Emilia-Romagna",
+        "id": "im703-emilia-romagna-2023"
+      },
+      {
+        "label": "70.3 Italy Emilia-Romagna",
+        "id": "im703-emilia-romagna-2022"
+      },
+      {
+        "label": "70.3 Italy Emilia-Romagna",
+        "id": "im703-emilia-romagna-2021"
+      },
+      {
+        "label": "70.3 Italy Emilia-Romagna",
+        "id": "im703-emilia-romagna-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-jonkoping",
+    "name": "70.3 Jonkoping",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Jonkoping",
+        "id": "im703-jonkoping-2023"
+      },
+      {
+        "label": "70.3 Jonkoping",
+        "id": "im703-jonkoping-2022"
+      },
+      {
+        "label": "70.3 Jonkoping",
+        "id": "im703-jonkoping-2021"
+      },
+      {
+        "label": "70.3 Jonkoping",
+        "id": "im703-jonkoping-2019"
+      },
+      {
+        "label": "70.3 Jonkoping",
+        "id": "im703-jonkoping-2018"
+      },
+      {
+        "label": "70.3 Jonkoping",
+        "id": "im703-jonkoping-2017"
+      },
+      {
+        "label": "70.3 Jonkoping",
+        "id": "im703-jonkoping-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-kraichgau",
+    "name": "70.3 Kraichgau",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2023"
+      },
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2022"
+      },
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2019"
+      },
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2018"
+      },
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2017"
+      },
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2016"
+      },
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2015"
+      },
+      {
+        "label": "70.3 Kraichgau",
+        "id": "im703-kraichgau-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-les-sables-dolonne",
+    "name": "70.3 Les Sables d'Olonne-Vend\u00e9e",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Les Sables d'Olonne-Vend\u00e9e",
+        "id": "im703-les-sables-dolonne-2023"
+      },
+      {
+        "label": "70.3 Les Sables d'Olonne-Vend\u00e9e",
+        "id": "im703-les-sables-dolonne-2022"
+      },
+      {
+        "label": "70.3 Les Sables d'Olonne-Vend\u00e9e",
+        "id": "im703-les-sables-dolonne-2021"
+      },
+      {
+        "label": "70.3 Les Sables d'Olonne-Vend\u00e9e",
+        "id": "im703-les-sables-dolonne-2020"
+      },
+      {
+        "label": "70.3 Les Sables d'Olonne-Vend\u00e9e",
+        "id": "im703-les-sables-dolonne-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-luxembourg",
+    "name": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2023"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2022"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2021"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2019"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2018"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2017"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2016"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2015"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2014"
+      },
+      {
+        "label": "70.3 Luxembourg Remich-R\u00e9gion Moselle",
+        "id": "im703-luxembourg-2013"
+      }
+    ]
+  },
+  {
+    "id": "im703-marbella",
+    "name": "70.3 Marbella",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Marbella",
+        "id": "im703-marbella-2023"
+      },
+      {
+        "label": "70.3 Marbella",
+        "id": "im703-marbella-2022"
+      },
+      {
+        "label": "70.3 Marbella",
+        "id": "im703-marbella-2021"
+      },
+      {
+        "label": "70.3 Marbella",
+        "id": "im703-marbella-2019"
+      },
+      {
+        "label": "70.3 Marbella",
+        "id": "im703-marbella-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-nice",
+    "name": "70.3 Nice",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Nice",
+        "id": "im703-nice-2023"
+      },
+      {
+        "label": "70.3 Nice",
+        "id": "im703-nice-2022"
+      },
+      {
+        "label": "70.3 Nice",
+        "id": "im703-nice-2021"
+      },
+      {
+        "label": "70.3 Nice",
+        "id": "im703-nice-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-switzerland",
+    "name": "70.3 Switzerland",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Switzerland",
+        "id": "im703-switzerland-2023"
+      },
+      {
+        "label": "70.3 Switzerland",
+        "id": "im703-switzerland-2022"
+      },
+      {
+        "label": "70.3 Switzerland",
+        "id": "im703-switzerland-2021"
+      },
+      {
+        "label": "70.3 Switzerland",
+        "id": "im703-switzerland-2019"
+      },
+      {
+        "label": "70.3 Switzerland",
+        "id": "im703-switzerland-2018"
+      },
+      {
+        "label": "70.3 Switzerland",
+        "id": "im703-switzerland-2017"
+      },
+      {
+        "label": "70.3 Switzerland",
+        "id": "im703-switzerland-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-westfriesland",
+    "name": "70.3 Westfriesland",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Westfriesland",
+        "id": "im703-westfriesland-2023"
+      },
+      {
+        "label": "70.3 Westfriesland",
+        "id": "im703-westfriesland-2022"
+      },
+      {
+        "label": "70.3 Westfriesland",
+        "id": "im703-westfriesland-2021"
+      },
+      {
+        "label": "70.3 Westfriesland",
+        "id": "im703-westfriesland-2020"
+      }
+    ]
+  },
+  {
+    "id": "im703-vichy",
+    "name": "70.3 Vichy",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2023"
+      },
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2022"
+      },
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2021"
+      },
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2019"
+      },
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2018"
+      },
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2017"
+      },
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2016"
+      },
+      {
+        "label": "70.3 Vichy",
+        "id": "im703-vichy-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-warsaw",
+    "name": "70.3 Warsaw",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Warsaw",
+        "id": "im703-warsaw-2023"
+      },
+      {
+        "label": "70.3 Warsaw",
+        "id": "im703-warsaw-2022"
+      },
+      {
+        "label": "70.3 Warsaw",
+        "id": "im703-warsaw-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-weymouth",
+    "name": "70.3 Weymouth",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Weymouth",
+        "id": "im703-weymouth-2023"
+      },
+      {
+        "label": "70.3 Weymouth",
+        "id": "im703-weymouth-2022"
+      },
+      {
+        "label": "70.3 Weymouth",
+        "id": "im703-weymouth-2021"
+      },
+      {
+        "label": "70.3 Weymouth",
+        "id": "im703-weymouth-2019"
+      },
+      {
+        "label": "70.3 Weymouth",
+        "id": "im703-weymouth-2018"
+      },
+      {
+        "label": "70.3 Weymouth",
+        "id": "im703-weymouth-2017"
+      },
+      {
+        "label": "70.3 Weymouth",
+        "id": "im703-weymouth-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-zell-am-see",
+    "name": "70.3 Zell am See-Kaprun",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2023"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2022"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2021"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2019"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2018"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2017"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2016"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2015"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2014"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2013"
+      },
+      {
+        "label": "70.3 Zell am See-Kaprun",
+        "id": "im703-zell-am-see-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-calgary",
+    "name": "70.3 Calgary",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Calgary",
+        "id": "im703-calgary-2023"
+      },
+      {
+        "label": "70.3 Calgary",
+        "id": "im703-calgary-2022"
+      },
+      {
+        "label": "70.3 Calgary",
+        "id": "im703-calgary-2021"
+      },
+      {
+        "label": "70.3 Calgary",
+        "id": "im703-calgary-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-augusta",
+    "name": "70.3 Augusta",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2023"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2022"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2021"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2019"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2018"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2017"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2016"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2015"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2014"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2013"
+      },
+      {
+        "label": "70.3 Augusta",
+        "id": "im703-augusta-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-boulder",
+    "name": "70.3 Boulder",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2023"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2022"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2021"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2019"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2018"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2017"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2016"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2015"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2014"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2013"
+      },
+      {
+        "label": "70.3 Boulder",
+        "id": "im703-boulder-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-chattanooga",
+    "name": "70.3 Chattanooga",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2023"
+      },
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2022"
+      },
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2021"
+      },
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2019"
+      },
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2018"
+      },
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2017"
+      },
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2016"
+      },
+      {
+        "label": "70.3 Chattanooga",
+        "id": "im703-chattanooga-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-cozumel",
+    "name": "70.3 Cozumel",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2023"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2022"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2021"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2020"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2019"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2018"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2017"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2016"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2015"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2014"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2013"
+      },
+      {
+        "label": "70.3 Cozumel",
+        "id": "im703-cozumel-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-eagleman",
+    "name": "70.3 Eagleman",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2023"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2022"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2021"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2019"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2018"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2017"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2016"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2015"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2014"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2013"
+      },
+      {
+        "label": "70.3 Eagleman",
+        "id": "im703-eagleman-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-florida",
+    "name": "70.3 Florida",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2023"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2022"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2021"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2019"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2018"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2017"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2016"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2015"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2014"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2013"
+      },
+      {
+        "label": "70.3 Florida",
+        "id": "im703-florida-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-gulf-coast",
+    "name": "70.3 Gulf Coast",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Gulf Coast",
+        "id": "im703-gulf-coast-2023"
+      },
+      {
+        "label": "70.3 Gulf Coast",
+        "id": "im703-gulf-coast-2022"
+      },
+      {
+        "label": "70.3 Gulf Coast",
+        "id": "im703-gulf-coast-2021"
+      },
+      {
+        "label": "70.3 Gulf Coast",
+        "id": "im703-gulf-coast-2020"
+      },
+      {
+        "label": "70.3 Gulf Coast",
+        "id": "im703-gulf-coast-2019"
+      },
+      {
+        "label": "70.3 Gulf Coast",
+        "id": "im703-gulf-coast-2018"
+      },
+      {
+        "label": "70.3 Gulf Coast",
+        "id": "im703-gulf-coast-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-indian-wells",
+    "name": "70.3 Indian Wells La Quinta",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Indian Wells La Quinta",
+        "id": "im703-indian-wells-2023"
+      },
+      {
+        "label": "70.3 Indian Wells La Quinta",
+        "id": "im703-indian-wells-2022"
+      },
+      {
+        "label": "70.3 Indian Wells La Quinta",
+        "id": "im703-indian-wells-2021"
+      },
+      {
+        "label": "70.3 Indian Wells La Quinta",
+        "id": "im703-indian-wells-2019"
+      },
+      {
+        "label": "70.3 Indian Wells La Quinta",
+        "id": "im703-indian-wells-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-hawaii",
+    "name": "70.3 Hawaii",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2023"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2022"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2021"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2019"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2018"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2017"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2016"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2015"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2014"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2013"
+      },
+      {
+        "label": "70.3 Hawaii",
+        "id": "im703-hawaii-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-los-cabos",
+    "name": "70.3 Los Cabos",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Los Cabos",
+        "id": "im703-los-cabos-2022"
+      },
+      {
+        "label": "70.3 Los Cabos",
+        "id": "im703-los-cabos-2019"
+      },
+      {
+        "label": "70.3 Los Cabos",
+        "id": "im703-los-cabos-2018"
+      },
+      {
+        "label": "70.3 Los Cabos",
+        "id": "im703-los-cabos-2017"
+      },
+      {
+        "label": "70.3 Los Cabos",
+        "id": "im703-los-cabos-2016"
+      },
+      {
+        "label": "70.3 Los Cabos",
+        "id": "im703-los-cabos-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-maine",
+    "name": "70.3 Maine",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Maine",
+        "id": "im703-maine-2023"
+      },
+      {
+        "label": "70.3 Maine",
+        "id": "im703-maine-2022"
+      },
+      {
+        "label": "70.3 Maine",
+        "id": "im703-maine-2021"
+      },
+      {
+        "label": "70.3 Maine",
+        "id": "im703-maine-2019"
+      },
+      {
+        "label": "70.3 Maine",
+        "id": "im703-maine-2018"
+      },
+      {
+        "label": "70.3 Maine",
+        "id": "im703-maine-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-morro-bay",
+    "name": "70.3 Morro Bay",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Morro Bay",
+        "id": "im703-morro-bay-2023"
+      }
+    ]
+  },
+  {
+    "id": "im703-mont-tremblant",
+    "name": "70.3 Mont Tremblant",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2023"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2022"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2019"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2018"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2017"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2016"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2015"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2014"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2013"
+      },
+      {
+        "label": "70.3 Mont Tremblant",
+        "id": "im703-mont-tremblant-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-monterrey",
+    "name": "70.3 Monterrey",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2023"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2022"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2021"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2019"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2018"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2017"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2016"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2015"
+      },
+      {
+        "label": "70.3 Monterrey",
+        "id": "im703-monterrey-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-muncie",
+    "name": "70.3 Muncie",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2023"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2022"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2021"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2019"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2018"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2017"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2016"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2015"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2014"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2013"
+      },
+      {
+        "label": "70.3 Muncie",
+        "id": "im703-muncie-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-muskoka",
+    "name": "70.3 Muskoka",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2023"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2022"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2021"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2019"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2018"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2017"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2016"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2015"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2014"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2013"
+      },
+      {
+        "label": "70.3 Muskoka",
+        "id": "im703-muskoka-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-north-carolina",
+    "name": "70.3 North Carolina",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2023"
+      },
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2022"
+      },
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2021"
+      },
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2019"
+      },
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2018"
+      },
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2017"
+      },
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2016"
+      },
+      {
+        "label": "70.3 North Carolina",
+        "id": "im703-north-carolina-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-pennsylvania",
+    "name": "70.3 Pennsylvania Happy Valley",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Pennsylvania Happy Valley",
+        "id": "im703-pennsylvania-2023"
+      }
+    ]
+  },
+  {
+    "id": "im703-ohio",
+    "name": "70.3 Ohio",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Ohio",
+        "id": "im703-ohio-2023"
+      },
+      {
+        "label": "70.3 Ohio",
+        "id": "im703-ohio-2022"
+      },
+      {
+        "label": "70.3 Ohio",
+        "id": "im703-ohio-2021"
+      },
+      {
+        "label": "70.3 Ohio",
+        "id": "im703-ohio-2019"
+      },
+      {
+        "label": "70.3 Ohio",
+        "id": "im703-ohio-2018"
+      },
+      {
+        "label": "70.3 Ohio",
+        "id": "im703-ohio-2017"
+      },
+      {
+        "label": "70.3 Ohio",
+        "id": "im703-ohio-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-oceanside",
+    "name": "70.3 Oceanside",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2023"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2022"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2021"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2019"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2018"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2017"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2016"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2015"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2014"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2013"
+      },
+      {
+        "label": "70.3 Oceanside",
+        "id": "im703-oceanside-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-puerto-rico",
+    "name": "70.3 Puerto Rico",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2023"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2022"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2019"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2018"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2017"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2016"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2015"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2014"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2013"
+      },
+      {
+        "label": "70.3 Puerto Rico",
+        "id": "im703-puerto-rico-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-santa-cruz",
+    "name": "70.3 Santa Cruz",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2023"
+      },
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2022"
+      },
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2021"
+      },
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2019"
+      },
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2018"
+      },
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2017"
+      },
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2016"
+      },
+      {
+        "label": "70.3 Santa Cruz",
+        "id": "im703-santa-cruz-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-st-george",
+    "name": "70.3 North American Championship St. George",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2023"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2021"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2019"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2018"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2017"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2016"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2015"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2014"
+      },
+      {
+        "label": "70.3 North American Championship St. George",
+        "id": "im703-st-george-2013"
+      }
+    ]
+  },
+  {
+    "id": "im703-michigan",
+    "name": "70.3 Michigan",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Michigan",
+        "id": "im703-michigan-2023"
+      },
+      {
+        "label": "70.3 Michigan",
+        "id": "im703-michigan-2022"
+      },
+      {
+        "label": "70.3 Michigan",
+        "id": "im703-michigan-2021"
+      },
+      {
+        "label": "70.3 Michigan",
+        "id": "im703-michigan-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-texas",
+    "name": "70.3 Texas",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2023"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2022"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2021"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2019"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2018"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2017"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2016"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2015"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2014"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2013"
+      },
+      {
+        "label": "70.3 Texas",
+        "id": "im703-texas-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-victoria",
+    "name": "70.3 Victoria",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2023"
+      },
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2022"
+      },
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2019"
+      },
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2018"
+      },
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2017"
+      },
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2016"
+      },
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2015"
+      },
+      {
+        "label": "70.3 Victoria",
+        "id": "im703-victoria-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-waco",
+    "name": "70.3 Waco",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Waco",
+        "id": "im703-waco-2023"
+      },
+      {
+        "label": "70.3 Waco",
+        "id": "im703-waco-2022"
+      },
+      {
+        "label": "70.3 Waco",
+        "id": "im703-waco-2021"
+      },
+      {
+        "label": "70.3 Waco",
+        "id": "im703-waco-2019"
+      },
+      {
+        "label": "70.3 Waco",
+        "id": "im703-waco-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-wisconsin",
+    "name": "70.3 Wisconsin",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Wisconsin",
+        "id": "im703-wisconsin-2023"
+      },
+      {
+        "label": "70.3 Wisconsin",
+        "id": "im703-wisconsin-2022"
+      },
+      {
+        "label": "70.3 Wisconsin",
+        "id": "im703-wisconsin-2021"
+      },
+      {
+        "label": "70.3 Wisconsin",
+        "id": "im703-wisconsin-2019"
+      },
+      {
+        "label": "70.3 Wisconsin",
+        "id": "im703-wisconsin-2018"
+      },
+      {
+        "label": "70.3 Wisconsin",
+        "id": "im703-wisconsin-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-cairns",
+    "name": "70.3 Cairns",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2023"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2022"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2021"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2020"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2019"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2018"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2017"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2016"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2015"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2014"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2013"
+      },
+      {
+        "label": "70.3 Cairns",
+        "id": "im703-cairns-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-geelong",
+    "name": "70.3 Geelong",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2023"
+      },
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2021"
+      },
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2020"
+      },
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2019"
+      },
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2018"
+      },
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2017"
+      },
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2016"
+      },
+      {
+        "label": "70.3 Geelong",
+        "id": "im703-geelong-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-port-macquarie",
+    "name": "70.3 Port Macquarie",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2023"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2020"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2019"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2018"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2017"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2016"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2015"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2014"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2013"
+      },
+      {
+        "label": "70.3 Port Macquarie",
+        "id": "im703-port-macquarie-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-egypt",
+    "name": "70.3 Egypt",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Egypt",
+        "id": "im703-egypt-2023"
+      },
+      {
+        "label": "70.3 Egypt",
+        "id": "im703-egypt-2022"
+      },
+      {
+        "label": "70.3 Egypt",
+        "id": "im703-egypt-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-sunshine-coast",
+    "name": "70.3 Sunshine Coast",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2023"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2022"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2021"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2020"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2019"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2018"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2017"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2015"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2014"
+      },
+      {
+        "label": "70.3 Sunshine Coast",
+        "id": "im703-sunshine-coast-2013"
+      }
+    ]
+  },
+  {
+    "id": "im703-taupo",
+    "name": "70.3 Taupo",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Taupo",
+        "id": "im703-taupo-2023"
+      },
+      {
+        "label": "70.3 Taupo",
+        "id": "im703-taupo-2019"
+      },
+      {
+        "label": "70.3 Taupo",
+        "id": "im703-taupo-2018"
+      },
+      {
+        "label": "70.3 Taupo",
+        "id": "im703-taupo-2017"
+      },
+      {
+        "label": "70.3 Taupo",
+        "id": "im703-taupo-2016"
+      },
+      {
+        "label": "70.3 Taupo",
+        "id": "im703-taupo-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-buenos-aires",
+    "name": "70.3 Buenos Aires",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Buenos Aires",
+        "id": "im703-buenos-aires-2023"
+      },
+      {
+        "label": "70.3 Buenos Aires",
+        "id": "im703-buenos-aires-2019"
+      },
+      {
+        "label": "70.3 Buenos Aires",
+        "id": "im703-buenos-aires-2018"
+      },
+      {
+        "label": "70.3 Buenos Aires",
+        "id": "im703-buenos-aires-2017"
+      },
+      {
+        "label": "70.3 Buenos Aires",
+        "id": "im703-buenos-aires-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-western-sydney",
+    "name": "70.3 Western Sydney",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Western Sydney",
+        "id": "im703-western-sydney-2022"
+      },
+      {
+        "label": "70.3 Western Sydney",
+        "id": "im703-western-sydney-2019"
+      },
+      {
+        "label": "70.3 Western Sydney",
+        "id": "im703-western-sydney-2018"
+      },
+      {
+        "label": "70.3 Western Sydney",
+        "id": "im703-western-sydney-2017"
+      },
+      {
+        "label": "70.3 Western Sydney",
+        "id": "im703-western-sydney-2016"
+      },
+      {
+        "label": "70.3 Western Sydney",
+        "id": "im703-western-sydney-2015"
+      },
+      {
+        "label": "70.3 Western Sydney",
+        "id": "im703-western-sydney-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-cartagena",
+    "name": "70.3 Cartagena",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Cartagena",
+        "id": "im703-cartagena-2023"
+      },
+      {
+        "label": "70.3 Cartagena",
+        "id": "im703-cartagena-2022"
+      },
+      {
+        "label": "70.3 Cartagena",
+        "id": "im703-cartagena-2021"
+      },
+      {
+        "label": "70.3 Cartagena",
+        "id": "im703-cartagena-2019"
+      },
+      {
+        "label": "70.3 Cartagena",
+        "id": "im703-cartagena-2018"
+      },
+      {
+        "label": "70.3 Cartagena",
+        "id": "im703-cartagena-2017"
+      },
+      {
+        "label": "70.3 Cartagena",
+        "id": "im703-cartagena-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-ecuador",
+    "name": "70.3 Ecuador",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Ecuador",
+        "id": "im703-ecuador-2022"
+      },
+      {
+        "label": "70.3 Ecuador",
+        "id": "im703-ecuador-2021"
+      },
+      {
+        "label": "70.3 Ecuador",
+        "id": "im703-ecuador-2019"
+      },
+      {
+        "label": "70.3 Ecuador",
+        "id": "im703-ecuador-2018"
+      },
+      {
+        "label": "70.3 Ecuador",
+        "id": "im703-ecuador-2017"
+      },
+      {
+        "label": "70.3 Ecuador",
+        "id": "im703-ecuador-2016"
+      },
+      {
+        "label": "70.3 Ecuador",
+        "id": "im703-ecuador-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-florianopolis",
+    "name": "70.3 Florian\u00f3polis",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Florian\u00f3polis",
+        "id": "im703-florianopolis-2023"
+      },
+      {
+        "label": "70.3 Florian\u00f3polis",
+        "id": "im703-florianopolis-2022"
+      },
+      {
+        "label": "70.3 Florian\u00f3polis",
+        "id": "im703-florianopolis-2019"
+      },
+      {
+        "label": "70.3 Florian\u00f3polis",
+        "id": "im703-florianopolis-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-maceio",
+    "name": "70.3 Macei\u00f3",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Macei\u00f3",
+        "id": "im703-maceio-2023"
+      },
+      {
+        "label": "70.3 Macei\u00f3",
+        "id": "im703-maceio-2022"
+      },
+      {
+        "label": "70.3 Macei\u00f3",
+        "id": "im703-maceio-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-fortaleza",
+    "name": "70.3 Fortaleza",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Fortaleza",
+        "id": "im703-fortaleza-2023"
+      },
+      {
+        "label": "70.3 Fortaleza",
+        "id": "im703-fortaleza-2022"
+      },
+      {
+        "label": "70.3 Fortaleza",
+        "id": "im703-fortaleza-2019"
+      },
+      {
+        "label": "70.3 Fortaleza",
+        "id": "im703-fortaleza-2018"
+      },
+      {
+        "label": "70.3 Fortaleza",
+        "id": "im703-fortaleza-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-panama",
+    "name": "70.3 Panama",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Panama",
+        "id": "im703-panama-2023"
+      },
+      {
+        "label": "70.3 Panama",
+        "id": "im703-panama-2022"
+      },
+      {
+        "label": "70.3 Panama",
+        "id": "im703-panama-2016"
+      },
+      {
+        "label": "70.3 Panama",
+        "id": "im703-panama-2014"
+      },
+      {
+        "label": "70.3 Panama",
+        "id": "im703-panama-2013"
+      },
+      {
+        "label": "70.3 Panama",
+        "id": "im703-panama-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-peru",
+    "name": "70.3 Peru",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Peru",
+        "id": "im703-peru-2023"
+      },
+      {
+        "label": "70.3 Peru",
+        "id": "im703-peru-2019"
+      },
+      {
+        "label": "70.3 Peru",
+        "id": "im703-peru-2018"
+      },
+      {
+        "label": "70.3 Peru",
+        "id": "im703-peru-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-punta-del-este",
+    "name": "70.3 Punta del Este",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Punta del Este",
+        "id": "im703-punta-del-este-2023"
+      },
+      {
+        "label": "70.3 Punta del Este",
+        "id": "im703-punta-del-este-2019"
+      },
+      {
+        "label": "70.3 Punta del Este",
+        "id": "im703-punta-del-este-2018"
+      },
+      {
+        "label": "70.3 Punta del Este",
+        "id": "im703-punta-del-este-2017"
+      },
+      {
+        "label": "70.3 Punta del Este",
+        "id": "im703-punta-del-este-2016"
+      },
+      {
+        "label": "70.3 Punta del Este",
+        "id": "im703-punta-del-este-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-pucon",
+    "name": "70.3 Pucon",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2024"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2023"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2022"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2019"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2018"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2017"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2016"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2015"
+      },
+      {
+        "label": "70.3 Pucon",
+        "id": "im703-pucon-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-sao-paulo",
+    "name": "70.3 S\u00e3o Paulo",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 S\u00e3o Paulo",
+        "id": "im703-sao-paulo-2023"
+      },
+      {
+        "label": "70.3 S\u00e3o Paulo",
+        "id": "im703-sao-paulo-2022"
+      },
+      {
+        "label": "70.3 S\u00e3o Paulo",
+        "id": "im703-sao-paulo-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-duisburg",
+    "name": "70.3 Duisburg",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Duisburg",
+        "id": "im703-duisburg-2023"
+      },
+      {
+        "label": "70.3 Duisburg",
+        "id": "im703-duisburg-2022"
+      },
+      {
+        "label": "70.3 Duisburg",
+        "id": "im703-duisburg-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-tallinn",
+    "name": "70.3 European Championship Tallinn",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 European Championship Tallinn",
+        "id": "im703-tallinn-2023"
+      },
+      {
+        "label": "70.3 European Championship Tallinn",
+        "id": "im703-tallinn-2022"
+      },
+      {
+        "label": "70.3 European Championship Tallinn",
+        "id": "im703-tallinn-2021"
+      },
+      {
+        "label": "70.3 European Championship Tallinn",
+        "id": "im703-tallinn-2020"
+      }
+    ]
+  },
+  {
+    "id": "im703-tasmania",
+    "name": "70.3 Tasmania",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Tasmania",
+        "id": "im703-tasmania-2024"
+      },
+      {
+        "label": "70.3 Tasmania",
+        "id": "im703-tasmania-2023"
+      }
+    ]
+  },
+  {
+    "id": "im703-salalah",
+    "name": "70.3 Salalah",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Salalah",
+        "id": "im703-salalah-2023"
+      },
+      {
+        "label": "70.3 Salalah",
+        "id": "im703-salalah-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-rio-de-janeiro",
+    "name": "70.3 Rio de Janeiro",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Rio de Janeiro",
+        "id": "im703-rio-de-janeiro-2023"
+      },
+      {
+        "label": "70.3 Rio de Janeiro",
+        "id": "im703-rio-de-janeiro-2022"
+      },
+      {
+        "label": "70.3 Rio de Janeiro",
+        "id": "im703-rio-de-janeiro-2019"
+      },
+      {
+        "label": "70.3 Rio de Janeiro",
+        "id": "im703-rio-de-janeiro-2018"
+      },
+      {
+        "label": "70.3 Rio de Janeiro",
+        "id": "im703-rio-de-janeiro-2017"
+      },
+      {
+        "label": "70.3 Rio de Janeiro",
+        "id": "im703-rio-de-janeiro-2016"
+      },
+      {
+        "label": "70.3 Rio de Janeiro",
+        "id": "im703-rio-de-janeiro-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-ireland",
+    "name": "70.3 Ireland, Cork",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Ireland, Cork",
+        "id": "im703-ireland-2023"
+      },
+      {
+        "label": "70.3 Ireland, Cork",
+        "id": "im703-ireland-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-venice-jesolo",
+    "name": "70.3 Venice-Jesolo",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Venice-Jesolo",
+        "id": "im703-venice-jesolo-2023"
+      },
+      {
+        "label": "70.3 Venice-Jesolo",
+        "id": "im703-venice-jesolo-2022"
+      },
+      {
+        "label": "70.3 Venice-Jesolo",
+        "id": "im703-venice-jesolo-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-acapulco",
+    "name": "70.3 Acapulco",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Acapulco",
+        "id": "im703-acapulco-2023"
+      },
+      {
+        "label": "70.3 Acapulco",
+        "id": "im703-acapulco-2022"
+      },
+      {
+        "label": "70.3 Acapulco",
+        "id": "im703-acapulco-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-musselman",
+    "name": "70.3 Musselman",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Musselman",
+        "id": "im703-musselman-2023"
+      },
+      {
+        "label": "70.3 Musselman",
+        "id": "im703-musselman-2022"
+      },
+      {
+        "label": "70.3 Musselman",
+        "id": "im703-musselman-2021"
+      }
+    ]
+  },
+  {
+    "id": "im-california",
+    "name": "IRONMAN California",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN California",
+        "id": "im-california-2023"
+      },
+      {
+        "label": "IRONMAN California",
+        "id": "im-california-2022"
+      }
+    ]
+  },
+  {
+    "id": "im-south-africa",
+    "name": "IRONMAN African Championship",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN African Championship",
+        "id": "im-south-africa-2023"
+      },
+      {
+        "label": "IRONMAN African Championship",
+        "id": "im-south-africa-2022"
+      },
+      {
+        "label": "IRONMAN African Championship",
+        "id": "im-south-africa-2021"
+      }
+    ]
+  },
+  {
+    "id": "im-australia",
+    "name": "IRONMAN Australia",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2023"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2019"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2018"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2017"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2016"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2015"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2014"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2013"
+      },
+      {
+        "label": "IRONMAN Australia",
+        "id": "im-australia-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-arizona",
+    "name": "IRONMAN Arizona",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2023"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2022"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2021"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2019"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2018"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2017"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2016"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2015"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2014"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2013"
+      },
+      {
+        "label": "IRONMAN Arizona",
+        "id": "im-arizona-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-cairns",
+    "name": "IRONMAN Cairns",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2023"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2022"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2021"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2020"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2019"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2018"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2017"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2016"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2015"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2014"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2013"
+      },
+      {
+        "label": "IRONMAN Cairns",
+        "id": "im-cairns-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-austria",
+    "name": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2023"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2022"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2021"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2019"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2018"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2017"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2016"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2015"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2014"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2013"
+      },
+      {
+        "label": "IRONMAN K\u00e4rnten-Klagenfurt, Austria",
+        "id": "im-austria-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-barcelona",
+    "name": "IRONMAN Calella-Barcelona",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2023"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2022"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2021"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2019"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2018"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2017"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2016"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2015"
+      },
+      {
+        "label": "IRONMAN Calella-Barcelona",
+        "id": "im-barcelona-2014"
+      }
+    ]
+  },
+  {
+    "id": "im-canada",
+    "name": "IRONMAN Canada Penticton",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2022"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2019"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2018"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2017"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2016"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2015"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2014"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2013"
+      },
+      {
+        "label": "IRONMAN Canada Penticton",
+        "id": "im-canada-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-brazil",
+    "name": "IRONMAN Brazil",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2023"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2022"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2019"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2018"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2017"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2016"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2015"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2014"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2013"
+      },
+      {
+        "label": "IRONMAN Brazil",
+        "id": "im-brazil-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-chattanooga",
+    "name": "IRONMAN Chattanooga",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2023"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2022"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2021"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2019"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2018"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2017"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2016"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2015"
+      },
+      {
+        "label": "IRONMAN Chattanooga",
+        "id": "im-chattanooga-2014"
+      }
+    ]
+  },
+  {
+    "id": "im-emilia-romagna",
+    "name": "IRONMAN Italy Emilia-Romagna",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Italy Emilia-Romagna",
+        "id": "im-emilia-romagna-2023"
+      },
+      {
+        "label": "IRONMAN Italy Emilia-Romagna",
+        "id": "im-emilia-romagna-2022"
+      },
+      {
+        "label": "IRONMAN Italy Emilia-Romagna",
+        "id": "im-emilia-romagna-2021"
+      },
+      {
+        "label": "IRONMAN Italy Emilia-Romagna",
+        "id": "im-emilia-romagna-2019"
+      },
+      {
+        "label": "IRONMAN Italy Emilia-Romagna",
+        "id": "im-emilia-romagna-2018"
+      },
+      {
+        "label": "IRONMAN Italy Emilia-Romagna",
+        "id": "im-emilia-romagna-2017"
+      }
+    ]
+  },
+  {
+    "id": "im-copenhagen",
+    "name": "IRONMAN Copenhagen",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2023"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2022"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2021"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2019"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2018"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2017"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2016"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2015"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2014"
+      },
+      {
+        "label": "IRONMAN Copenhagen",
+        "id": "im-copenhagen-2013"
+      }
+    ]
+  },
+  {
+    "id": "im-cozumel",
+    "name": "IRONMAN Cozumel",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2023"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2022"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2021"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2020"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2019"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2018"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2017"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2016"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2015"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2014"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2013"
+      },
+      {
+        "label": "IRONMAN Cozumel",
+        "id": "im-cozumel-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-frankfurt",
+    "name": "IRONMAN European Championship Frankfurt",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2023"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2022"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2021"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2019"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2018"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2017"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2016"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2015"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2014"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2013"
+      },
+      {
+        "label": "IRONMAN European Championship Frankfurt",
+        "id": "im-frankfurt-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-gurye",
+    "name": "IRONMAN Gurye",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Gurye",
+        "id": "im-gurye-2023"
+      },
+      {
+        "label": "IRONMAN Gurye",
+        "id": "im-gurye-2019"
+      },
+      {
+        "label": "IRONMAN Gurye",
+        "id": "im-gurye-2018"
+      },
+      {
+        "label": "IRONMAN Gurye",
+        "id": "im-gurye-2017"
+      }
+    ]
+  },
+  {
+    "id": "im-france",
+    "name": "IRONMAN France Nice",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2023"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2022"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2021"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2019"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2018"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2017"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2016"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2015"
+      },
+      {
+        "label": "IRONMAN France Nice",
+        "id": "im-france-2014"
+      }
+    ]
+  },
+  {
+    "id": "im-ireland",
+    "name": "IRONMAN Ireland, Cork",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Ireland, Cork",
+        "id": "im-ireland-2023"
+      },
+      {
+        "label": "IRONMAN Ireland, Cork",
+        "id": "im-ireland-2022"
+      },
+      {
+        "label": "IRONMAN Ireland, Cork",
+        "id": "im-ireland-2019"
+      }
+    ]
+  },
+  {
+    "id": "im-hamburg",
+    "name": "IRONMAN European Championship Hamburg",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN European Championship Hamburg",
+        "id": "im-hamburg-2023"
+      },
+      {
+        "label": "IRONMAN European Championship Hamburg",
+        "id": "im-hamburg-2022"
+      },
+      {
+        "label": "IRONMAN European Championship Hamburg",
+        "id": "im-hamburg-2021"
+      },
+      {
+        "label": "IRONMAN European Championship Hamburg",
+        "id": "im-hamburg-2019"
+      },
+      {
+        "label": "IRONMAN European Championship Hamburg",
+        "id": "im-hamburg-2018"
+      },
+      {
+        "label": "IRONMAN European Championship Hamburg",
+        "id": "im-hamburg-2017"
+      }
+    ]
+  },
+  {
+    "id": "im-florida",
+    "name": "IRONMAN Florida",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2023"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2022"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2021"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2020"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2019"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2018"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2017"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2016"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2015"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2014"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2013"
+      },
+      {
+        "label": "IRONMAN Florida",
+        "id": "im-florida-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-kalmar",
+    "name": "IRONMAN Kalmar",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2023"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2022"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2019"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2018"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2017"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2016"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2015"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2014"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2013"
+      },
+      {
+        "label": "IRONMAN Kalmar",
+        "id": "im-kalmar-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-lanzarote",
+    "name": "IRONMAN Lanzarote",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2023"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2022"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2021"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2019"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2018"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2017"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2016"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2015"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2014"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2013"
+      },
+      {
+        "label": "IRONMAN Lanzarote",
+        "id": "im-lanzarote-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-malaysia",
+    "name": "IRONMAN Malaysia",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2023"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2022"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2019"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2018"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2017"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2016"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2015"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2014"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2007"
+      },
+      {
+        "label": "IRONMAN Malaysia",
+        "id": "im-malaysia-2006"
+      }
+    ]
+  },
+  {
+    "id": "im-lake-placid",
+    "name": "IRONMAN Lake Placid",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2023"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2022"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2021"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2019"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2018"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2017"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2016"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2015"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2014"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2013"
+      },
+      {
+        "label": "IRONMAN Lake Placid",
+        "id": "im-lake-placid-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-philippines",
+    "name": "IRONMAN Philippines",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Philippines",
+        "id": "im-philippines-2023"
+      },
+      {
+        "label": "IRONMAN Philippines",
+        "id": "im-philippines-2022"
+      },
+      {
+        "label": "IRONMAN Philippines",
+        "id": "im-philippines-2018"
+      }
+    ]
+  },
+  {
+    "id": "im-maryland",
+    "name": "IRONMAN Maryland",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2023"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2022"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2021"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2019"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2018"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2017"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2016"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2015"
+      },
+      {
+        "label": "IRONMAN Maryland",
+        "id": "im-maryland-2014"
+      }
+    ]
+  },
+  {
+    "id": "im-switzerland",
+    "name": "IRONMAN Switzerland Thun",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Switzerland Thun",
+        "id": "im-switzerland-2023"
+      },
+      {
+        "label": "IRONMAN Switzerland Thun",
+        "id": "im-switzerland-2022"
+      },
+      {
+        "label": "IRONMAN Switzerland Thun",
+        "id": "im-switzerland-2021"
+      },
+      {
+        "label": "IRONMAN Switzerland Thun",
+        "id": "im-switzerland-2019"
+      },
+      {
+        "label": "IRONMAN Switzerland Thun",
+        "id": "im-switzerland-2018"
+      }
+    ]
+  },
+  {
+    "id": "im-taiwan",
+    "name": "IRONMAN Taiwan",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Taiwan",
+        "id": "im-taiwan-2022"
+      },
+      {
+        "label": "IRONMAN Taiwan",
+        "id": "im-taiwan-2019"
+      },
+      {
+        "label": "IRONMAN Taiwan",
+        "id": "im-taiwan-2018"
+      },
+      {
+        "label": "IRONMAN Taiwan",
+        "id": "im-taiwan-2017"
+      },
+      {
+        "label": "IRONMAN Taiwan",
+        "id": "im-taiwan-2016"
+      },
+      {
+        "label": "IRONMAN Taiwan",
+        "id": "im-taiwan-2015"
+      }
+    ]
+  },
+  {
+    "id": "im-tallinn",
+    "name": "IRONMAN Tallinn",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Tallinn",
+        "id": "im-tallinn-2023"
+      },
+      {
+        "label": "IRONMAN Tallinn",
+        "id": "im-tallinn-2022"
+      },
+      {
+        "label": "IRONMAN Tallinn",
+        "id": "im-tallinn-2021"
+      },
+      {
+        "label": "IRONMAN Tallinn",
+        "id": "im-tallinn-2020"
+      },
+      {
+        "label": "IRONMAN Tallinn",
+        "id": "im-tallinn-2019"
+      },
+      {
+        "label": "IRONMAN Tallinn",
+        "id": "im-tallinn-2018"
+      }
+    ]
+  },
+  {
+    "id": "im-vitoria",
+    "name": "IRONMAN Vitoria-Gasteiz",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Vitoria-Gasteiz",
+        "id": "im-vitoria-2023"
+      },
+      {
+        "label": "IRONMAN Vitoria-Gasteiz",
+        "id": "im-vitoria-2022"
+      },
+      {
+        "label": "IRONMAN Vitoria-Gasteiz",
+        "id": "im-vitoria-2021"
+      },
+      {
+        "label": "IRONMAN Vitoria-Gasteiz",
+        "id": "im-vitoria-2019"
+      }
+    ]
+  },
+  {
+    "id": "im-kazakhstan",
+    "name": "IRONMAN Kazakhstan",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Kazakhstan",
+        "id": "im-kazakhstan-2023"
+      },
+      {
+        "label": "IRONMAN Kazakhstan",
+        "id": "im-kazakhstan-2022"
+      }
+    ]
+  },
+  {
+    "id": "im-wales",
+    "name": "IRONMAN Wales",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2023"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2022"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2019"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2018"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2017"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2016"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2015"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2014"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2013"
+      },
+      {
+        "label": "IRONMAN Wales",
+        "id": "im-wales-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-cascais",
+    "name": "IRONMAN Portugal - Cascais",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Portugal - Cascais",
+        "id": "im-cascais-2023"
+      },
+      {
+        "label": "IRONMAN Portugal - Cascais",
+        "id": "im-cascais-2022"
+      },
+      {
+        "label": "IRONMAN Portugal - Cascais",
+        "id": "im-cascais-2021"
+      }
+    ]
+  },
+  {
+    "id": "im-finland",
+    "name": "IRONMAN Finland, Kuopio-Tahko",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Finland, Kuopio-Tahko",
+        "id": "im-finland-2022"
+      },
+      {
+        "label": "IRONMAN Finland, Kuopio-Tahko",
+        "id": "im-finland-2021"
+      }
+    ]
+  },
+  {
+    "id": "im-texas",
+    "name": "IRONMAN Texas - North American Championship",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2023"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2022"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2021"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2019"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2018"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2017"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2016"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2015"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2014"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2013"
+      },
+      {
+        "label": "IRONMAN Texas - North American Championship",
+        "id": "im-texas-2012"
+      }
+    ]
+  },
+  {
+    "id": "5150-cervia",
+    "name": "5150-Triathlon-Series Cervia",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Cervia",
+        "id": "5150-cervia-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Cervia",
+        "id": "5150-cervia-2021"
+      },
+      {
+        "label": "5150-Triathlon-Series Cervia",
+        "id": "5150-cervia-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Cervia",
+        "id": "5150-cervia-2018"
+      },
+      {
+        "label": "5150-Triathlon-Series Cervia",
+        "id": "5150-cervia-2017"
+      }
+    ]
+  },
+  {
+    "id": "im-wisconsin",
+    "name": "IRONMAN Wisconsin",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2023"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2022"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2021"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2019"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2018"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2017"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2016"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2015"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2014"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2013"
+      },
+      {
+        "label": "IRONMAN Wisconsin",
+        "id": "im-wisconsin-2012"
+      }
+    ]
+  },
+  {
+    "id": "5150-cartagena",
+    "name": "5150-Triathlon-Series Cartagena",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Cartagena",
+        "id": "5150-cartagena-2023"
+      }
+    ]
+  },
+  {
+    "id": "5150-kraichgau",
+    "name": "5150-Triathlon-Series Kraichgau",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Kraichgau",
+        "id": "5150-kraichgau-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Kraichgau",
+        "id": "5150-kraichgau-2022"
+      },
+      {
+        "label": "5150-Triathlon-Series Kraichgau",
+        "id": "5150-kraichgau-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Kraichgau",
+        "id": "5150-kraichgau-2018"
+      },
+      {
+        "label": "5150-Triathlon-Series Kraichgau",
+        "id": "5150-kraichgau-2017"
+      },
+      {
+        "label": "5150-Triathlon-Series Kraichgau",
+        "id": "5150-kraichgau-2016"
+      },
+      {
+        "label": "5150-Triathlon-Series Kraichgau",
+        "id": "5150-kraichgau-2015"
+      }
+    ]
+  },
+  {
+    "id": "5150-warsaw",
+    "name": "5150-Triathlon-Series Warsaw",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Warsaw",
+        "id": "5150-warsaw-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Warsaw",
+        "id": "5150-warsaw-2022"
+      },
+      {
+        "label": "5150-Triathlon-Series Warsaw",
+        "id": "5150-warsaw-2021"
+      },
+      {
+        "label": "5150-Triathlon-Series Warsaw",
+        "id": "5150-warsaw-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Warsaw",
+        "id": "5150-warsaw-2018"
+      }
+    ]
+  },
+  {
+    "id": "5150-buenos-aires",
+    "name": "5150-Triathlon-Series Buenos Aires",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Buenos Aires",
+        "id": "5150-buenos-aires-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Buenos Aires",
+        "id": "5150-buenos-aires-2022"
+      },
+      {
+        "label": "5150-Triathlon-Series Buenos Aires",
+        "id": "5150-buenos-aires-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Buenos Aires",
+        "id": "5150-buenos-aires-2018"
+      }
+    ]
+  },
+  {
+    "id": "5150-subic-bay-philippines",
+    "name": "5150-Triathlon-Series Subic Bay",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Subic Bay",
+        "id": "5150-subic-bay-philippines-2022"
+      },
+      {
+        "label": "5150-Triathlon-Series Subic Bay",
+        "id": "5150-subic-bay-philippines-2019"
+      }
+    ]
+  },
+  {
+    "id": "5150-desaru-coast",
+    "name": "5150-Triathlon-Series Desaru Coast",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Desaru Coast",
+        "id": "5150-desaru-coast-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Desaru Coast",
+        "id": "5150-desaru-coast-2022"
+      }
+    ]
+  },
+  {
+    "id": "5150-mont-tremblant",
+    "name": "5150-Triathlon-Series Mont Tremblant",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Mont Tremblant",
+        "id": "5150-mont-tremblant-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Mont Tremblant",
+        "id": "5150-mont-tremblant-2022"
+      },
+      {
+        "label": "5150-Triathlon-Series Mont Tremblant",
+        "id": "5150-mont-tremblant-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Mont Tremblant",
+        "id": "5150-mont-tremblant-2018"
+      },
+      {
+        "label": "5150-Triathlon-Series Mont Tremblant",
+        "id": "5150-mont-tremblant-2016"
+      }
+    ]
+  },
+  {
+    "id": "5150-bohol",
+    "name": "5150-Triathlon-Series Bohol",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Bohol",
+        "id": "5150-bohol-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Bohol",
+        "id": "5150-bohol-2022"
+      }
+    ]
+  },
+  {
+    "id": "5150-camsur",
+    "name": "5150-Triathlon-Series Camsur",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Camsur",
+        "id": "5150-camsur-2024"
+      },
+      {
+        "label": "5150-Triathlon-Series Camsur",
+        "id": "5150-camsur-2022"
+      }
+    ]
+  },
+  {
+    "id": "5150-dapitan-philippines",
+    "name": "5150-Triathlon-Series Dapitan",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Dapitan",
+        "id": "5150-dapitan-philippines-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Dapitan",
+        "id": "5150-dapitan-philippines-2019"
+      }
+    ]
+  },
+  {
+    "id": "5150-westfriesland",
+    "name": "5150-Triathlon-Series Westfriesland",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Westfriesland",
+        "id": "5150-westfriesland-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Westfriesland",
+        "id": "5150-westfriesland-2022"
+      },
+      {
+        "label": "5150-Triathlon-Series Westfriesland",
+        "id": "5150-westfriesland-2021"
+      },
+      {
+        "label": "5150-Triathlon-Series Westfriesland",
+        "id": "5150-westfriesland-2019"
+      }
+    ]
+  },
+  {
+    "id": "im-israel",
+    "name": "IRONMAN Israel Middle East Championship",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Israel Middle East Championship",
+        "id": "im-israel-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-tiberias",
+    "name": "70.3 Tiberias, Sea of Galilee",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Tiberias, Sea of Galilee",
+        "id": "im703-tiberias-2022"
+      },
+      {
+        "label": "70.3 Tiberias, Sea of Galilee",
+        "id": "im703-tiberias-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-oregon",
+    "name": "70.3 Oregon",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Oregon",
+        "id": "im703-oregon-2023"
+      },
+      {
+        "label": "70.3 Oregon",
+        "id": "im703-oregon-2022"
+      },
+      {
+        "label": "70.3 Oregon",
+        "id": "im703-oregon-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-dresden",
+    "name": "70.3 Dresden",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Dresden",
+        "id": "im703-dresden-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-mossel-bay",
+    "name": "70.3 Mossel Bay - African TriClub Championship",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Mossel Bay - African TriClub Championship",
+        "id": "im703-mossel-bay-2023"
+      },
+      {
+        "label": "70.3 Mossel Bay - African TriClub Championship",
+        "id": "im703-mossel-bay-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-new-zealand",
+    "name": "70.3 New Zealand",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 New Zealand",
+        "id": "im703-new-zealand-2023"
+      },
+      {
+        "label": "70.3 New Zealand",
+        "id": "im703-new-zealand-2022"
+      },
+      {
+        "label": "70.3 New Zealand",
+        "id": "im703-new-zealand-2021"
+      },
+      {
+        "label": "70.3 New Zealand",
+        "id": "im703-new-zealand-2020"
+      },
+      {
+        "label": "70.3 New Zealand",
+        "id": "im703-new-zealand-2019"
+      },
+      {
+        "label": "70.3 New Zealand",
+        "id": "im703-new-zealand-2018"
+      },
+      {
+        "label": "70.3 New Zealand",
+        "id": "im703-new-zealand-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-swansea",
+    "name": "70.3 Swansea",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Swansea",
+        "id": "im703-swansea-2023"
+      },
+      {
+        "label": "70.3 Swansea",
+        "id": "im703-swansea-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-erkner",
+    "name": "70.3 Erkner",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Erkner",
+        "id": "im703-erkner-2023"
+      },
+      {
+        "label": "70.3 Erkner",
+        "id": "im703-erkner-2022"
+      }
+    ]
+  },
+  {
+    "id": "5150-erkner",
+    "name": "5150-Triathlon-Series Erkner",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Erkner",
+        "id": "5150-erkner-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Erkner",
+        "id": "5150-erkner-2022"
+      }
+    ]
+  },
+  {
+    "id": "im-new-zealand",
+    "name": "IRONMAN New Zealand",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2023"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2022"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2021"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2020"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2019"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2018"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2017"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2016"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2015"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2014"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2013"
+      },
+      {
+        "label": "IRONMAN New Zealand",
+        "id": "im-new-zealand-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-western-australia",
+    "name": "70.3 Western Australia",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Western Australia",
+        "id": "im703-western-australia-2022"
+      },
+      {
+        "label": "70.3 Western Australia",
+        "id": "im703-western-australia-2021"
+      },
+      {
+        "label": "70.3 Western Australia",
+        "id": "im703-western-australia-2019"
+      },
+      {
+        "label": "70.3 Western Australia",
+        "id": "im703-western-australia-2018"
+      },
+      {
+        "label": "70.3 Western Australia",
+        "id": "im703-western-australia-2017"
+      },
+      {
+        "label": "70.3 Western Australia",
+        "id": "im703-western-australia-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-melbourne",
+    "name": "70.3 Melbourne",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Melbourne",
+        "id": "im703-melbourne-2023"
+      },
+      {
+        "label": "70.3 Melbourne",
+        "id": "im703-melbourne-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-nelson-mandela-bay",
+    "name": "70.3 Nelson Mandela Bay",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Nelson Mandela Bay",
+        "id": "im703-nelson-mandela-bay-2023"
+      },
+      {
+        "label": "70.3 Nelson Mandela Bay",
+        "id": "im703-nelson-mandela-bay-2022"
+      }
+    ]
+  },
+  {
+    "id": "im-western-australia",
+    "name": "IRONMAN Western Australia",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2022"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2021"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2019"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2018"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2017"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2016"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2015"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2014"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2013"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2012"
+      },
+      {
+        "label": "IRONMAN Western Australia",
+        "id": "im-western-australia-2011"
+      }
+    ]
+  },
+  {
+    "id": "im703-san-juan",
+    "name": "70.3 San Juan",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 San Juan",
+        "id": "im703-san-juan-2023"
+      },
+      {
+        "label": "70.3 San Juan",
+        "id": "im703-san-juan-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-croatia",
+    "name": "70.3 Porec",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Porec",
+        "id": "im703-croatia-2023"
+      },
+      {
+        "label": "70.3 Porec",
+        "id": "im703-croatia-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-tangier",
+    "name": "70.3 Tangier",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Tangier",
+        "id": "im703-tangier-2023"
+      },
+      {
+        "label": "70.3 Tangier",
+        "id": "im703-tangier-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-poznan",
+    "name": "70.3 Poznan",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Poznan",
+        "id": "im703-poznan-2023"
+      },
+      {
+        "label": "70.3 Poznan",
+        "id": "im703-poznan-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-rwanda",
+    "name": "70.3 Rwanda",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Rwanda",
+        "id": "im703-rwanda-2023"
+      },
+      {
+        "label": "70.3 Rwanda",
+        "id": "im703-rwanda-2022"
+      }
+    ]
+  },
+  {
+    "id": "5150-poznan",
+    "name": "5150-Triathlon-Series Poznan",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Poznan",
+        "id": "5150-poznan-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Poznan",
+        "id": "5150-poznan-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-puerto-princesa",
+    "name": "70.3 Puerto Princesa",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Puerto Princesa",
+        "id": "im703-puerto-princesa-2023"
+      },
+      {
+        "label": "70.3 Puerto Princesa",
+        "id": "im703-puerto-princesa-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-knokke-heist",
+    "name": "70.3 Knokke-Heist, Belgium",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Knokke-Heist, Belgium",
+        "id": "im703-knokke-heist-2023"
+      }
+    ]
+  },
+  {
+    "id": "5150-knokke-heist",
+    "name": "5150-Triathlon-Series Knokke-Heist",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Knokke-Heist",
+        "id": "5150-knokke-heist-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Knokke-Heist",
+        "id": "5150-knokke-heist-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-western-massachusetts",
+    "name": "70.3 Western Massachusetts",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Western Massachusetts",
+        "id": "im703-western-massachusetts-2023"
+      }
+    ]
+  },
+  {
+    "id": "im703-des-moines",
+    "name": "70.3 Des Moines",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Des Moines",
+        "id": "im703-des-moines-2023"
+      },
+      {
+        "label": "70.3 Des Moines",
+        "id": "im703-des-moines-2021"
+      }
+    ]
+  },
+  {
+    "id": "5150-egypt",
+    "name": "5150-Triathlon-Series Egypt",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Egypt",
+        "id": "5150-egypt-2023"
+      },
+      {
+        "label": "5150-Triathlon-Series Egypt",
+        "id": "5150-egypt-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-phu-quoc",
+    "name": "70.3 Phu Quoc",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Phu Quoc",
+        "id": "im703-phu-quoc-2023"
+      }
+    ]
+  },
+  {
+    "id": "im703-coeur-dalene",
+    "name": "70.3 Coeur d'Alene",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Coeur d'Alene",
+        "id": "im703-coeur-dalene-2022"
+      },
+      {
+        "label": "70.3 Coeur d'Alene",
+        "id": "im703-coeur-dalene-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-bolton",
+    "name": "70.3 Bolton",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Bolton",
+        "id": "im703-bolton-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-campeche",
+    "name": "70.3 Campeche",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Campeche",
+        "id": "im703-campeche-2020"
+      },
+      {
+        "label": "70.3 Campeche",
+        "id": "im703-campeche-2019"
+      },
+      {
+        "label": "70.3 Campeche",
+        "id": "im703-campeche-2018"
+      },
+      {
+        "label": "70.3 Campeche",
+        "id": "im703-campeche-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-cap-cana",
+    "name": "70.3 Cap Cana",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Cap Cana",
+        "id": "im703-cap-cana-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-louisville",
+    "name": "70.3 Louisville",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Louisville",
+        "id": "im703-louisville-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-valencia",
+    "name": "70.3 Valencia",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Valencia",
+        "id": "im703-valencia-2013"
+      }
+    ]
+  },
+  {
+    "id": "im703-cebu-philippines",
+    "name": "70.3 Lapu-Lapu",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2022"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2019"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2018"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2017"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2016"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2015"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2014"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2013"
+      },
+      {
+        "label": "70.3 Lapu-Lapu",
+        "id": "im703-cebu-philippines-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-washington-tri-cities",
+    "name": "70.3 Washington Tri-Cities",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Washington Tri-Cities",
+        "id": "im703-washington-tri-cities-2022"
+      },
+      {
+        "label": "70.3 Washington Tri-Cities",
+        "id": "im703-washington-tri-cities-2021"
+      }
+    ]
+  },
+  {
+    "id": "im-alaska",
+    "name": "IRONMAN Alaska",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Alaska",
+        "id": "im-alaska-2022"
+      }
+    ]
+  },
+  {
+    "id": "im-maastricht-limburg",
+    "name": "IRONMAN Maastricht-Limburg",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Maastricht-Limburg",
+        "id": "im-maastricht-limburg-2022"
+      }
+    ]
+  },
+  {
+    "id": "im-boulder",
+    "name": "IRONMAN Boulder\u00a0",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Boulder\u00a0",
+        "id": "im-boulder-2019"
+      },
+      {
+        "label": "IRONMAN Boulder\u00a0",
+        "id": "im-boulder-2018"
+      },
+      {
+        "label": "IRONMAN Boulder\u00a0",
+        "id": "im-boulder-2017"
+      },
+      {
+        "label": "IRONMAN Boulder\u00a0",
+        "id": "im-boulder-2016"
+      },
+      {
+        "label": "IRONMAN Boulder\u00a0",
+        "id": "im-boulder-2015"
+      },
+      {
+        "label": "IRONMAN Boulder\u00a0",
+        "id": "im-boulder-2014"
+      }
+    ]
+  },
+  {
+    "id": "im-aix-en-provence",
+    "name": "IRONMAN Pays d'Aix-en-Provence",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Pays d'Aix-en-Provence",
+        "id": "im-aix-en-provence-2022"
+      }
+    ]
+  },
+  {
+    "id": "im-indiana",
+    "name": "IRONMAN Indiana",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2021"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2019"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2018"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2017"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2016"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2015"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2014"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2013"
+      },
+      {
+        "label": "IRONMAN Indiana",
+        "id": "im-indiana-2012"
+      }
+    ]
+  },
+  {
+    "id": "im-mallorca",
+    "name": "IRONMAN Mallorca",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Mallorca",
+        "id": "im-mallorca-2022"
+      },
+      {
+        "label": "IRONMAN Mallorca",
+        "id": "im-mallorca-2021"
+      },
+      {
+        "label": "IRONMAN Mallorca",
+        "id": "im-mallorca-2016"
+      },
+      {
+        "label": "IRONMAN Mallorca",
+        "id": "im-mallorca-2015"
+      },
+      {
+        "label": "IRONMAN Mallorca",
+        "id": "im-mallorca-2014"
+      }
+    ]
+  },
+  {
+    "id": "im-santa-rosa",
+    "name": "IRONMAN Santa Rosa",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Santa Rosa",
+        "id": "im-santa-rosa-2019"
+      },
+      {
+        "label": "IRONMAN Santa Rosa",
+        "id": "im-santa-rosa-2018"
+      },
+      {
+        "label": "IRONMAN Santa Rosa",
+        "id": "im-santa-rosa-2017"
+      }
+    ]
+  },
+  {
+    "id": "im-tulsa",
+    "name": "IRONMAN Tulsa",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN Tulsa",
+        "id": "im-tulsa-2023"
+      },
+      {
+        "label": "IRONMAN Tulsa",
+        "id": "im-tulsa-2022"
+      },
+      {
+        "label": "IRONMAN Tulsa",
+        "id": "im-tulsa-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-andorra",
+    "name": "70.3 Andorra",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Andorra",
+        "id": "im703-andorra-2023"
+      },
+      {
+        "label": "70.3 Andorra",
+        "id": "im703-andorra-2022"
+      },
+      {
+        "label": "70.3 Andorra",
+        "id": "im703-andorra-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-bariloche",
+    "name": "70.3 Bariloche",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Bariloche",
+        "id": "im703-bariloche-2020"
+      },
+      {
+        "label": "70.3 Bariloche",
+        "id": "im703-bariloche-2019"
+      },
+      {
+        "label": "70.3 Bariloche",
+        "id": "im703-bariloche-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-atlantic-city",
+    "name": "70.3 Atlantic City",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Atlantic City",
+        "id": "im703-atlantic-city-2023"
+      },
+      {
+        "label": "70.3 Atlantic City",
+        "id": "im703-atlantic-city-2022"
+      },
+      {
+        "label": "70.3 Atlantic City",
+        "id": "im703-atlantic-city-2021"
+      },
+      {
+        "label": "70.3 Atlantic City",
+        "id": "im703-atlantic-city-2019"
+      },
+      {
+        "label": "70.3 Atlantic City",
+        "id": "im703-atlantic-city-2018"
+      },
+      {
+        "label": "70.3 Atlantic City",
+        "id": "im703-atlantic-city-2017"
+      },
+      {
+        "label": "70.3 Atlantic City",
+        "id": "im703-atlantic-city-2016"
+      }
+    ]
+  },
+  {
+    "id": "im-uk",
+    "name": "IRONMAN UK",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2023"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2022"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2021"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2019"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2018"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2017"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2016"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2015"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2014"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2013"
+      },
+      {
+        "label": "IRONMAN UK",
+        "id": "im-uk-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-bintan",
+    "name": "70.3 Bintan",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Bintan",
+        "id": "im703-bintan-2019"
+      },
+      {
+        "label": "70.3 Bintan",
+        "id": "im703-bintan-2018"
+      },
+      {
+        "label": "70.3 Bintan",
+        "id": "im703-bintan-2017"
+      },
+      {
+        "label": "70.3 Bintan",
+        "id": "im703-bintan-2016"
+      },
+      {
+        "label": "70.3 Bintan",
+        "id": "im703-bintan-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-barcelona",
+    "name": "70.3 Barcelona",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2023"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2022"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2021"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2019"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2018"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2017"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2016"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2015"
+      },
+      {
+        "label": "70.3 Barcelona",
+        "id": "im703-barcelona-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-colombo",
+    "name": "70.3 Colombo",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Colombo",
+        "id": "im703-colombo-2019"
+      },
+      {
+        "label": "70.3 Colombo",
+        "id": "im703-colombo-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-connecticut",
+    "name": "70.3 Connecticut",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Connecticut",
+        "id": "im703-connecticut-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-coquimbo",
+    "name": "70.3 Coquimbo",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Coquimbo",
+        "id": "im703-coquimbo-2019"
+      },
+      {
+        "label": "70.3 Coquimbo",
+        "id": "im703-coquimbo-2018"
+      },
+      {
+        "label": "70.3 Coquimbo",
+        "id": "im703-coquimbo-2017"
+      }
+    ]
+  },
+  {
+    "id": "im703-busselton",
+    "name": "70.3 Busselton",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Busselton",
+        "id": "im703-busselton-2021"
+      },
+      {
+        "label": "70.3 Busselton",
+        "id": "im703-busselton-2020"
+      },
+      {
+        "label": "70.3 Busselton",
+        "id": "im703-busselton-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-greece",
+    "name": "70.3 Greece, Costa Navarino",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Greece, Costa Navarino",
+        "id": "im703-greece-2021"
+      },
+      {
+        "label": "70.3 Greece, Costa Navarino",
+        "id": "im703-greece-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-lombok",
+    "name": "70.3 Lombok",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Lombok",
+        "id": "im703-lombok-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-lubbock",
+    "name": "70.3 Lubbock",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Lubbock",
+        "id": "im703-lubbock-2022"
+      },
+      {
+        "label": "70.3 Lubbock",
+        "id": "im703-lubbock-2021"
+      },
+      {
+        "label": "70.3 Lubbock",
+        "id": "im703-lubbock-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-otepaa",
+    "name": "70.3 Otep\u00e4\u00e4",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Otep\u00e4\u00e4",
+        "id": "im703-otepaa-2019"
+      },
+      {
+        "label": "70.3 Otep\u00e4\u00e4",
+        "id": "im703-otepaa-2018"
+      },
+      {
+        "label": "70.3 Otep\u00e4\u00e4",
+        "id": "im703-otepaa-2017"
+      },
+      {
+        "label": "70.3 Otep\u00e4\u00e4",
+        "id": "im703-otepaa-2016"
+      }
+    ]
+  },
+  {
+    "id": "im703-sandnes",
+    "name": "70.3 Sandnes",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Sandnes",
+        "id": "im703-sandnes-2023"
+      },
+      {
+        "label": "70.3 Sandnes",
+        "id": "im703-sandnes-2022"
+      }
+    ]
+  },
+  {
+    "id": "im703-sardegna",
+    "name": "70.3 Sardegna",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Sardegna",
+        "id": "im703-sardegna-2022"
+      },
+      {
+        "label": "70.3 Sardegna",
+        "id": "im703-sardegna-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-slovenian-istria",
+    "name": "70.3 Slovenian Istria",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Slovenian Istria",
+        "id": "im703-slovenian-istria-2021"
+      },
+      {
+        "label": "70.3 Slovenian Istria",
+        "id": "im703-slovenian-istria-2019"
+      },
+      {
+        "label": "70.3 Slovenian Istria",
+        "id": "im703-slovenian-istria-2018"
+      }
+    ]
+  },
+  {
+    "id": "im703-st-petersburg",
+    "name": "70.3 St. Petersburg",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 St. Petersburg",
+        "id": "im703-st-petersburg-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-staffordshire",
+    "name": "70.3 Staffordshire",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2023"
+      },
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2022"
+      },
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2021"
+      },
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2019"
+      },
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2018"
+      },
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2017"
+      },
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2016"
+      },
+      {
+        "label": "70.3 Staffordshire",
+        "id": "im703-staffordshire-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-steelhead",
+    "name": "70.3 Steelhead",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2023"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2022"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2021"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2018"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2017"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2016"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2015"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2014"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2013"
+      },
+      {
+        "label": "70.3 Steelhead",
+        "id": "im703-steelhead-2012"
+      }
+    ]
+  },
+  {
+    "id": "im703-superfrog",
+    "name": "70.3 Superfrog",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Superfrog",
+        "id": "im703-superfrog-2019"
+      },
+      {
+        "label": "70.3 Superfrog",
+        "id": "im703-superfrog-2018"
+      },
+      {
+        "label": "70.3 Superfrog",
+        "id": "im703-superfrog-2017"
+      },
+      {
+        "label": "70.3 Superfrog",
+        "id": "im703-superfrog-2016"
+      },
+      {
+        "label": "70.3 Superfrog",
+        "id": "im703-superfrog-2015"
+      },
+      {
+        "label": "70.3 Superfrog",
+        "id": "im703-superfrog-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-taitung",
+    "name": "70.3 Taitung",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Taitung",
+        "id": "im703-taitung-2022"
+      },
+      {
+        "label": "70.3 Taitung",
+        "id": "im703-taitung-2020"
+      },
+      {
+        "label": "70.3 Taitung",
+        "id": "im703-taitung-2019"
+      },
+      {
+        "label": "70.3 Taitung",
+        "id": "im703-taitung-2018"
+      },
+      {
+        "label": "70.3 Taitung",
+        "id": "im703-taitung-2017"
+      },
+      {
+        "label": "70.3 Taitung",
+        "id": "im703-taitung-2016"
+      },
+      {
+        "label": "70.3 Taitung",
+        "id": "im703-taitung-2015"
+      }
+    ]
+  },
+  {
+    "id": "im703-virginia-blue-ridge",
+    "name": "70.3 Virginia Blue Ridge",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Virginia Blue Ridge",
+        "id": "im703-virginia-blue-ridge-2023"
+      },
+      {
+        "label": "70.3 Virginia Blue Ridge",
+        "id": "im703-virginia-blue-ridge-2022"
+      },
+      {
+        "label": "70.3 Virginia Blue Ridge",
+        "id": "im703-virginia-blue-ridge-2021"
+      },
+      {
+        "label": "70.3 Virginia Blue Ridge",
+        "id": "im703-virginia-blue-ridge-2019"
+      }
+    ]
+  },
+  {
+    "id": "im703-timberman",
+    "name": "70.3 Timberman",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2022"
+      },
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2021"
+      },
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2016"
+      },
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2015"
+      },
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2014"
+      },
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2013"
+      },
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2012"
+      },
+      {
+        "label": "70.3 Timberman",
+        "id": "im703-timberman-2011"
+      }
+    ]
+  },
+  {
+    "id": "im703-washington",
+    "name": "70.3 Washington",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Washington",
+        "id": "im703-washington-2023"
+      },
+      {
+        "label": "70.3 Washington",
+        "id": "im703-washington-2022"
+      },
+      {
+        "label": "70.3 Washington",
+        "id": "im703-washington-2021"
+      }
+    ]
+  },
+  {
+    "id": "5150-davao-philippines",
+    "name": "5150-Triathlon-Series Davao",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Davao",
+        "id": "5150-davao-philippines-2022"
+      },
+      {
+        "label": "5150-Triathlon-Series Davao",
+        "id": "5150-davao-philippines-2019"
+      }
+    ]
+  },
+  {
+    "id": "5150-bela-bela",
+    "name": "5150-Triathlon-Series Bela Bela",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Bela Bela",
+        "id": "5150-bela-bela-2021"
+      },
+      {
+        "label": "5150-Triathlon-Series Bela Bela",
+        "id": "5150-bela-bela-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Bela Bela",
+        "id": "5150-bela-bela-2017"
+      },
+      {
+        "label": "5150-Triathlon-Series Bela Bela",
+        "id": "5150-bela-bela-2016"
+      }
+    ]
+  },
+  {
+    "id": "5150-ekurhuleni",
+    "name": "5150-Triathlon-Series Ekurhuleni",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Ekurhuleni",
+        "id": "5150-ekurhuleni-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Ekurhuleni",
+        "id": "5150-ekurhuleni-2018"
+      }
+    ]
+  },
+  {
+    "id": "5150-croatia",
+    "name": "5150-Triathlon-Series Pore\u010d",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Pore\u010d",
+        "id": "5150-croatia-2021"
+      },
+      {
+        "label": "5150-Triathlon-Series Pore\u010d",
+        "id": "5150-croatia-2019"
+      }
+    ]
+  },
+  {
+    "id": "superseal-triathlon",
+    "name": "5150-Triathlon-Series SUPERSEAL",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series SUPERSEAL",
+        "id": "superseal-triathlon-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series SUPERSEAL",
+        "id": "superseal-triathlon-2018"
+      },
+      {
+        "label": "5150-Triathlon-Series SUPERSEAL",
+        "id": "superseal-triathlon-2017"
+      },
+      {
+        "label": "5150-Triathlon-Series SUPERSEAL",
+        "id": "superseal-triathlon-2016"
+      }
+    ]
+  },
+  {
+    "id": "5150-zurich",
+    "name": "5150-Triathlon-Series Z\u00fcrich",
+    "series": "5150-Triathlon-Series",
+    "subevents": [
+      {
+        "label": "5150-Triathlon-Series Z\u00fcrich",
+        "id": "5150-zurich-2019"
+      },
+      {
+        "label": "5150-Triathlon-Series Z\u00fcrich",
+        "id": "5150-zurich-2018"
+      },
+      {
+        "label": "5150-Triathlon-Series Z\u00fcrich",
+        "id": "5150-zurich-2017"
+      },
+      {
+        "label": "5150-Triathlon-Series Z\u00fcrich",
+        "id": "5150-zurich-2016"
+      },
+      {
+        "label": "5150-Triathlon-Series Z\u00fcrich",
+        "id": "5150-zurich-2015"
+      },
+      {
+        "label": "5150-Triathlon-Series Z\u00fcrich",
+        "id": "5150-zurich-2014"
+      }
+    ]
+  },
+  {
+    "id": "im703-kenting",
+    "name": "70.3 Kenting",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 Kenting",
+        "id": "im703-kenting-2023"
+      },
+      {
+        "label": "70.3 Kenting",
+        "id": "im703-kenting-2022"
+      },
+      {
+        "label": "70.3 Kenting",
+        "id": "im703-kenting-2021"
+      }
+    ]
+  },
+  {
+    "id": "im703-world-championship",
+    "name": "70.3 World Championship",
+    "series": "IRONMAN-70.3",
+    "subevents": [
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2023-f"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2023-m"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2022-f"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2022-m"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2021-mw"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2019-f"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2019-m"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2018-f"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2018-m"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2017-f"
+      },
+      {
+        "label": "70.3 World Championship",
+        "id": "im703-world-championship-2017-m"
+      }
+    ]
+  },
+  {
+    "id": "im-world-championship",
+    "name": "IRONMAN World Championship",
+    "series": "IRONMAN",
+    "subevents": [
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2023-f"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2023-m"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2022-f"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2022-m"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2022-mf"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2019-mf"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2019-k"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2018-mf"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2017-mf"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2016-mf"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2015-mf"
+      },
+      {
+        "label": "IRONMAN World Championship",
+        "id": "im-world-championship-2014-mf"
+      }
+    ]
+  }
+]
