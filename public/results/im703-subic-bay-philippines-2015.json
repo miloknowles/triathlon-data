@@ -48,7 +48,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -98,7 +98,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -148,7 +148,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -188,7 +188,7 @@
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
       "RankPoints": 3386,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "AU"
       },
@@ -245,7 +245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -295,7 +295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -345,7 +345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -395,7 +395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -445,7 +445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -495,7 +495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -545,7 +545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -595,7 +595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -645,7 +645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -695,7 +695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -745,7 +745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -795,7 +795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -845,7 +845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -895,7 +895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -945,7 +945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -995,7 +995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1045,7 +1045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1095,7 +1095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1145,7 +1145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1195,7 +1195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1245,7 +1245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1295,7 +1295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1345,7 +1345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1395,7 +1395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1445,7 +1445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1495,7 +1495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1545,7 +1545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1595,7 +1595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1645,7 +1645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1695,7 +1695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1745,7 +1745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1795,7 +1795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1845,7 +1845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1895,7 +1895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1945,7 +1945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1995,7 +1995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2045,7 +2045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2095,7 +2095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2145,7 +2145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2195,7 +2195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2245,7 +2245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2295,7 +2295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2345,7 +2345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2395,7 +2395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2445,7 +2445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2495,7 +2495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2545,7 +2545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2595,7 +2595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2645,7 +2645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2695,7 +2695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2745,7 +2745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2795,7 +2795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2845,7 +2845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2895,7 +2895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2945,7 +2945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2995,7 +2995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3045,7 +3045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3095,7 +3095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3145,7 +3145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3195,7 +3195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3245,7 +3245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3295,7 +3295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3345,7 +3345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3395,7 +3395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3445,7 +3445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3495,7 +3495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3545,7 +3545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3595,7 +3595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3645,7 +3645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3695,7 +3695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3745,7 +3745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3795,7 +3795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3845,7 +3845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3895,7 +3895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3945,7 +3945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3995,7 +3995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4045,7 +4045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4095,7 +4095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4145,7 +4145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4195,7 +4195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4245,7 +4245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4295,7 +4295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4345,7 +4345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4395,7 +4395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4445,7 +4445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4495,7 +4495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4545,7 +4545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4595,7 +4595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4645,7 +4645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4695,7 +4695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4745,7 +4745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4795,7 +4795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4845,7 +4845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4895,7 +4895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4945,7 +4945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4995,7 +4995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5045,7 +5045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5095,7 +5095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5145,7 +5145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5195,7 +5195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5245,7 +5245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5295,7 +5295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5345,7 +5345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5395,7 +5395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5445,7 +5445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5495,7 +5495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5545,7 +5545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5595,7 +5595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5645,7 +5645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5695,7 +5695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5745,7 +5745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5795,7 +5795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5845,7 +5845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5895,7 +5895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5945,7 +5945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5995,7 +5995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6045,7 +6045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6095,7 +6095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6145,7 +6145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6195,7 +6195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6245,7 +6245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6295,7 +6295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6345,7 +6345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6395,7 +6395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6445,7 +6445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6495,7 +6495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6545,7 +6545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6595,7 +6595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6645,7 +6645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6695,7 +6695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6745,7 +6745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6795,7 +6795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6845,7 +6845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6895,7 +6895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6945,7 +6945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6995,7 +6995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7045,7 +7045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7095,7 +7095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7145,7 +7145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7195,7 +7195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7245,7 +7245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7295,7 +7295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7345,7 +7345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7395,7 +7395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7445,7 +7445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7495,7 +7495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7545,7 +7545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7595,7 +7595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7645,7 +7645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7695,7 +7695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7745,7 +7745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7795,7 +7795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7845,7 +7845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7895,7 +7895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7945,7 +7945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7995,7 +7995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8045,7 +8045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8095,7 +8095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8145,7 +8145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8195,7 +8195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8245,7 +8245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8295,7 +8295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8345,7 +8345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8395,7 +8395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8445,7 +8445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8495,7 +8495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8545,7 +8545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8595,7 +8595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8645,7 +8645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8695,7 +8695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8745,7 +8745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8795,7 +8795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8845,7 +8845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8895,7 +8895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8945,7 +8945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8995,7 +8995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9045,7 +9045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9095,7 +9095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9145,7 +9145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9195,7 +9195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9245,7 +9245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9295,7 +9295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9345,7 +9345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9395,7 +9395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9445,7 +9445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9495,7 +9495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9545,7 +9545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9595,7 +9595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9645,7 +9645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9695,7 +9695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9745,7 +9745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9795,7 +9795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9845,7 +9845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9895,7 +9895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9945,7 +9945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9995,7 +9995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10045,7 +10045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10095,7 +10095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10145,7 +10145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10195,7 +10195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10245,7 +10245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10295,7 +10295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10345,7 +10345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10395,7 +10395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10445,7 +10445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10495,7 +10495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10545,7 +10545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10595,7 +10595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10645,7 +10645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10695,7 +10695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10745,7 +10745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10795,7 +10795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10845,7 +10845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10895,7 +10895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10945,7 +10945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10995,7 +10995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11045,7 +11045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11095,7 +11095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11145,7 +11145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11195,7 +11195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11245,7 +11245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -11295,7 +11295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11345,7 +11345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11395,7 +11395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11445,7 +11445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11495,7 +11495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11545,7 +11545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11595,7 +11595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11645,7 +11645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11695,7 +11695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11745,7 +11745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11795,7 +11795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11845,7 +11845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11895,7 +11895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11945,7 +11945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11995,7 +11995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12045,7 +12045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12095,7 +12095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12145,7 +12145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12195,7 +12195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12245,7 +12245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12295,7 +12295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12345,7 +12345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12395,7 +12395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12445,7 +12445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12495,7 +12495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12545,7 +12545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -12595,7 +12595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12645,7 +12645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12695,7 +12695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12745,7 +12745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12795,7 +12795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12845,7 +12845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12895,7 +12895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12945,7 +12945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12995,7 +12995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13045,7 +13045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13095,7 +13095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13145,7 +13145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13195,7 +13195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13245,7 +13245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13295,7 +13295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13345,7 +13345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13395,7 +13395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13445,7 +13445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13495,7 +13495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13545,7 +13545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13595,7 +13595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13645,7 +13645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13695,7 +13695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13745,7 +13745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13795,7 +13795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13845,7 +13845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13895,7 +13895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13945,7 +13945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13995,7 +13995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14045,7 +14045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14095,7 +14095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14145,7 +14145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14195,7 +14195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14245,7 +14245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14295,7 +14295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14345,7 +14345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14395,7 +14395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14445,7 +14445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14495,7 +14495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14545,7 +14545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14595,7 +14595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14645,7 +14645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14695,7 +14695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14745,7 +14745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14795,7 +14795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14845,7 +14845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14895,7 +14895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14945,7 +14945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14995,7 +14995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15045,7 +15045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15095,7 +15095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15145,7 +15145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15195,7 +15195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15245,7 +15245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15295,7 +15295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15345,7 +15345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15395,7 +15395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15445,7 +15445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15495,7 +15495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15545,7 +15545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15595,7 +15595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15645,7 +15645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15695,7 +15695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15745,7 +15745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15795,7 +15795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15845,7 +15845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15895,7 +15895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15945,7 +15945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15995,7 +15995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16045,7 +16045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16095,7 +16095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16145,7 +16145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16195,7 +16195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16245,7 +16245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16295,7 +16295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16345,7 +16345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16395,7 +16395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16445,7 +16445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16495,7 +16495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16545,7 +16545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16595,7 +16595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16645,7 +16645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16695,7 +16695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16745,7 +16745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16795,7 +16795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16845,7 +16845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16895,7 +16895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16945,7 +16945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16995,7 +16995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17045,7 +17045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17095,7 +17095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17145,7 +17145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17195,7 +17195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17245,7 +17245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17295,7 +17295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17345,7 +17345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17395,7 +17395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17445,7 +17445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17495,7 +17495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17545,7 +17545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17595,7 +17595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17645,7 +17645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17695,7 +17695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17745,7 +17745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17795,7 +17795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17845,7 +17845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17895,7 +17895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17945,7 +17945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17995,7 +17995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18045,7 +18045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18095,7 +18095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18145,7 +18145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18195,7 +18195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18245,7 +18245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18295,7 +18295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18345,7 +18345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18395,7 +18395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18445,7 +18445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18495,7 +18495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18545,7 +18545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18595,7 +18595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18645,7 +18645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18695,7 +18695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18745,7 +18745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18795,7 +18795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18845,7 +18845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18895,7 +18895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18945,7 +18945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18995,7 +18995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19045,7 +19045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19095,7 +19095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19145,7 +19145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19195,7 +19195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19245,7 +19245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19295,7 +19295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19345,7 +19345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19395,7 +19395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19445,7 +19445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19495,7 +19495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19545,7 +19545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19595,7 +19595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19645,7 +19645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19695,7 +19695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19745,7 +19745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19795,7 +19795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19845,7 +19845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19895,7 +19895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19945,7 +19945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19995,7 +19995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20045,7 +20045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20095,7 +20095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20145,7 +20145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20195,7 +20195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20245,7 +20245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20295,7 +20295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20345,7 +20345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20395,7 +20395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20445,7 +20445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20495,7 +20495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20545,7 +20545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20595,7 +20595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20645,7 +20645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20695,7 +20695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20745,7 +20745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20795,7 +20795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20845,7 +20845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20895,7 +20895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20945,7 +20945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20995,7 +20995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21045,7 +21045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21095,7 +21095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21145,7 +21145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21195,7 +21195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21245,7 +21245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21295,7 +21295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21345,7 +21345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21395,7 +21395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21445,7 +21445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21495,7 +21495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21545,7 +21545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21595,7 +21595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21645,7 +21645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21695,7 +21695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -21745,7 +21745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21795,7 +21795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21845,7 +21845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21895,7 +21895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21945,7 +21945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21995,7 +21995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22045,7 +22045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22095,7 +22095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22145,7 +22145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22195,7 +22195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22245,7 +22245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22295,7 +22295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22345,7 +22345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22395,7 +22395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22445,7 +22445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22495,7 +22495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22545,7 +22545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22595,7 +22595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22645,7 +22645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22695,7 +22695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22745,7 +22745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22795,7 +22795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22845,7 +22845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22895,7 +22895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22945,7 +22945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22995,7 +22995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23045,7 +23045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23095,7 +23095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23145,7 +23145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23195,7 +23195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23245,7 +23245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23295,7 +23295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23345,7 +23345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23395,7 +23395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23445,7 +23445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23495,7 +23495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23545,7 +23545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23595,7 +23595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23645,7 +23645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23695,7 +23695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23745,7 +23745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23795,7 +23795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23845,7 +23845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23895,7 +23895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23945,7 +23945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23995,7 +23995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24045,7 +24045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24095,7 +24095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24145,7 +24145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24195,7 +24195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24245,7 +24245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24295,7 +24295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24345,7 +24345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24395,7 +24395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24445,7 +24445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24495,7 +24495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24545,7 +24545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24595,7 +24595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24645,7 +24645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24695,7 +24695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24745,7 +24745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24795,7 +24795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24845,7 +24845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24895,7 +24895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24945,7 +24945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24995,7 +24995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25045,7 +25045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25095,7 +25095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25145,7 +25145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25195,7 +25195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25245,7 +25245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25295,7 +25295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25345,7 +25345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25395,7 +25395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25445,7 +25445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25495,7 +25495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25545,7 +25545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25595,7 +25595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25645,7 +25645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25695,7 +25695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25745,7 +25745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25795,7 +25795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25845,7 +25845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25895,7 +25895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25945,7 +25945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25995,7 +25995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26045,7 +26045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26095,7 +26095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26145,7 +26145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26195,7 +26195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26245,7 +26245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26295,7 +26295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26345,7 +26345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26395,7 +26395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26445,7 +26445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26495,7 +26495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26545,7 +26545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26595,7 +26595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26645,7 +26645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26695,7 +26695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26745,7 +26745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26795,7 +26795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26845,7 +26845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26895,7 +26895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26945,7 +26945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26995,7 +26995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27045,7 +27045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27095,7 +27095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27145,7 +27145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27195,7 +27195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27245,7 +27245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27295,7 +27295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27345,7 +27345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27395,7 +27395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27445,7 +27445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27495,7 +27495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27545,7 +27545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27569,18 +27569,18 @@
       "Transition2Time": 218,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 103.0,
       "SwimRankGender": 480.0,
       "SwimRankOverall": 552.0,
       "BikeRankGroup": 107.0,
       "BikeRankGender": 474.0,
       "BikeRankOverall": 543.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27595,7 +27595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27619,18 +27619,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-11-14T18:50:33.753Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27645,7 +27645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -27669,18 +27669,18 @@
       "Transition2Time": 129,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 3.0,
       "SwimRankGender": 71.0,
       "SwimRankOverall": 547.0,
       "BikeRankGroup": 3.0,
       "BikeRankGender": 71.0,
       "BikeRankOverall": 557.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27695,7 +27695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -27719,18 +27719,18 @@
       "Transition2Time": 129,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 5.0,
       "SwimRankGender": 493.0,
       "SwimRankOverall": 565.0,
       "BikeRankGroup": 5.0,
       "BikeRankGender": 486.0,
       "BikeRankOverall": 556.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27745,7 +27745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27769,18 +27769,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-07-01T19:50:16.420Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27795,7 +27795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27819,18 +27819,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27845,7 +27845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27869,18 +27869,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27895,7 +27895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -27919,18 +27919,18 @@
       "Transition2Time": 392,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 1.0,
       "SwimRankGender": 457.0,
       "SwimRankOverall": 521.0,
       "BikeRankGroup": 1.0,
       "BikeRankGender": 477.0,
       "BikeRankOverall": 546.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27945,7 +27945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27969,18 +27969,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-08-03T14:40:12.447Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -27995,7 +27995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28019,18 +28019,18 @@
       "Transition2Time": 845,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 51.0,
       "SwimRankGender": 352.0,
       "SwimRankOverall": 408.0,
       "BikeRankGroup": 78.0,
       "BikeRankGender": 460.0,
       "BikeRankOverall": 528.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28045,7 +28045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28069,18 +28069,18 @@
       "Transition2Time": 584,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 4.0,
       "SwimRankGender": 410.0,
       "SwimRankOverall": 468.0,
       "BikeRankGroup": 4.0,
       "BikeRankGender": 471.0,
       "BikeRankOverall": 540.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28095,7 +28095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28119,18 +28119,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 4.0,
       "SwimRankGender": 4.0,
       "SwimRankOverall": 4.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28145,7 +28145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28169,18 +28169,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28195,7 +28195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28219,18 +28219,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28245,7 +28245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -28269,18 +28269,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28295,7 +28295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28319,18 +28319,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28345,7 +28345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28369,18 +28369,18 @@
       "Transition2Time": 397,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 79.0,
       "SwimRankGender": 464.0,
       "SwimRankOverall": 528.0,
       "BikeRankGroup": 82.0,
       "BikeRankGender": 488.0,
       "BikeRankOverall": 559.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28395,7 +28395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28419,18 +28419,18 @@
       "Transition2Time": 282,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 125.0,
       "SwimRankGender": 488.0,
       "SwimRankOverall": 560.0,
       "BikeRankGroup": 124.0,
       "BikeRankGender": 484.0,
       "BikeRankOverall": 553.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2020-12-16T18:20:33.787Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28445,7 +28445,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28469,18 +28469,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28495,7 +28495,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28519,18 +28519,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28545,7 +28545,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28569,18 +28569,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28595,7 +28595,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28619,18 +28619,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28645,7 +28645,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28669,18 +28669,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28695,7 +28695,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28719,18 +28719,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 85.0,
       "SwimRankGender": 494.0,
       "SwimRankOverall": 566.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28745,7 +28745,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28769,18 +28769,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-10-17T18:10:12.690Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28795,7 +28795,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28819,18 +28819,18 @@
       "Transition2Time": 371,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 7.0,
       "SwimRankGender": 496.0,
       "SwimRankOverall": 568.0,
       "BikeRankGroup": 7.0,
       "BikeRankGender": 472.0,
       "BikeRankOverall": 541.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-12-15T15:35:17.547Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28845,7 +28845,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28869,18 +28869,18 @@
       "Transition2Time": 343,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 29.0,
       "SwimRankGender": 463.0,
       "SwimRankOverall": 527.0,
       "BikeRankGroup": 31.0,
       "BikeRankGender": 466.0,
       "BikeRankOverall": 535.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28895,7 +28895,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28922,15 +28922,15 @@
       "FinishRankGroup": 1.0,
       "FinishRankGender": 6.0,
       "FinishRankOverall": 6.0,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-21T20:49:10.400Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28945,7 +28945,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -28969,18 +28969,18 @@
       "Transition2Time": 18518,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 86.0,
       "SwimRankGender": 497.0,
       "SwimRankOverall": 569.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -28995,7 +28995,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -29019,18 +29019,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 58.0,
       "SwimRankGender": 389.0,
       "SwimRankOverall": 445.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2020-07-01T18:30:28.430Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29045,7 +29045,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -29069,18 +29069,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 13.0,
       "SwimRankGender": 63.0,
       "SwimRankOverall": 498.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29095,7 +29095,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -29119,18 +29119,18 @@
       "Transition2Time": 373,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 73.0,
       "SwimRankGender": 313.0,
       "SwimRankOverall": 364.0,
       "BikeRankGroup": 123.0,
       "BikeRankGender": 483.0,
       "BikeRankOverall": 552.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29145,7 +29145,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -29169,18 +29169,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29195,7 +29195,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -29219,18 +29219,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29245,7 +29245,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -29269,18 +29269,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2021-12-15T04:30:14.183Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29295,7 +29295,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -29319,18 +29319,18 @@
       "Transition2Time": 19351,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 115.0,
       "SwimRankGender": 450.0,
       "SwimRankOverall": 513.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2023-03-07T16:50:41.163Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29345,7 +29345,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -29369,18 +29369,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 13.0,
       "SwimRankGender": 95.0,
       "SwimRankOverall": 117.0,
       "BikeRankGroup": 21.0,
       "BikeRankGender": 176.0,
       "BikeRankOverall": 195.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "E7600891-A2BE-E411-9400-005056951BF1",
@@ -29395,7 +29395,7 @@
       "Subevent": {
         "SubEvent": "2015 IRONMAN 70.3 Subic Bay Philippines"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     }
   ]

@@ -48,7 +48,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -98,7 +98,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -128,9 +128,9 @@
       "SwimRankGroup": 1.0,
       "SwimRankGender": 3.0,
       "SwimRankOverall": 4.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 1.0,
       "RunRankGender": 5.0,
       "RunRankOverall": 5.0,
@@ -148,7 +148,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -198,7 +198,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -248,7 +248,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -298,7 +298,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -348,7 +348,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -378,9 +378,9 @@
       "SwimRankGroup": 1.0,
       "SwimRankGender": 13.0,
       "SwimRankOverall": 16.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 1.0,
       "RunRankGender": 9.0,
       "RunRankOverall": 9.0,
@@ -398,7 +398,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -448,7 +448,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -478,12 +478,12 @@
       "SwimRankGroup": 1.0,
       "SwimRankGender": 5.0,
       "SwimRankOverall": 7.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -498,7 +498,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -548,7 +548,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -598,7 +598,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -648,7 +648,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -698,7 +698,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -728,12 +728,12 @@
       "SwimRankGroup": 1.0,
       "SwimRankGender": 1.0,
       "SwimRankOverall": 3.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -748,7 +748,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -798,7 +798,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -828,12 +828,12 @@
       "SwimRankGroup": 2.0,
       "SwimRankGender": 3.0,
       "SwimRankOverall": 10.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -848,7 +848,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -898,7 +898,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -948,7 +948,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -998,7 +998,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1048,7 +1048,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1078,9 +1078,9 @@
       "SwimRankGroup": 1.0,
       "SwimRankGender": 20.0,
       "SwimRankOverall": 24.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 5.0,
       "RunRankGender": 22.0,
       "RunRankOverall": 25.0,
@@ -1098,7 +1098,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1148,7 +1148,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1178,9 +1178,9 @@
       "SwimRankGroup": 10.0,
       "SwimRankGender": 57.0,
       "SwimRankOverall": 66.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 4.0,
       "RunRankGender": 14.0,
       "RunRankOverall": 15.0,
@@ -1198,7 +1198,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1248,7 +1248,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1298,7 +1298,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1348,7 +1348,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1398,7 +1398,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1448,7 +1448,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1478,12 +1478,12 @@
       "SwimRankGroup": 9.0,
       "SwimRankGender": 31.0,
       "SwimRankOverall": 35.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -1498,7 +1498,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1528,9 +1528,9 @@
       "SwimRankGroup": 8.0,
       "SwimRankGender": 46.0,
       "SwimRankOverall": 54.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 4.0,
       "RunRankGender": 21.0,
       "RunRankOverall": 24.0,
@@ -1548,7 +1548,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1598,7 +1598,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1648,7 +1648,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1678,17 +1678,17 @@
       "SwimRankGroup": 9.0,
       "SwimRankGender": 49.0,
       "SwimRankOverall": 57.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
       "RankPoints": 691,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "PH"
       },
@@ -1745,7 +1745,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1795,7 +1795,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1845,7 +1845,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1895,7 +1895,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1945,7 +1945,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1975,9 +1975,9 @@
       "SwimRankGroup": 3.0,
       "SwimRankGender": 33.0,
       "SwimRankOverall": 37.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 6.0,
       "RunRankGender": 40.0,
       "RunRankOverall": 44.0,
@@ -1995,7 +1995,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2045,7 +2045,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2095,7 +2095,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2145,7 +2145,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2195,7 +2195,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2245,7 +2245,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2295,7 +2295,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2345,7 +2345,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2375,9 +2375,9 @@
       "SwimRankGroup": 5.0,
       "SwimRankGender": 21.0,
       "SwimRankOverall": 25.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 11.0,
       "RunRankGender": 50.0,
       "RunRankOverall": 58.0,
@@ -2395,7 +2395,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2445,7 +2445,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2475,9 +2475,9 @@
       "SwimRankGroup": 6.0,
       "SwimRankGender": 55.0,
       "SwimRankOverall": 64.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 5.0,
       "RunRankGender": 24.0,
       "RunRankOverall": 28.0,
@@ -2495,7 +2495,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2545,7 +2545,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2575,9 +2575,9 @@
       "SwimRankGroup": 2.0,
       "SwimRankGender": 40.0,
       "SwimRankOverall": 46.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 2.0,
       "RunRankGender": 48.0,
       "RunRankOverall": 55.0,
@@ -2595,7 +2595,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2625,9 +2625,9 @@
       "SwimRankGroup": 10.0,
       "SwimRankGender": 34.0,
       "SwimRankOverall": 38.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 12.0,
       "RunRankGender": 54.0,
       "RunRankOverall": 63.0,
@@ -2645,7 +2645,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2675,12 +2675,12 @@
       "SwimRankGroup": 12.0,
       "SwimRankGender": 43.0,
       "SwimRankOverall": 50.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -2695,7 +2695,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2745,7 +2745,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2795,7 +2795,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2825,9 +2825,9 @@
       "SwimRankGroup": 1.0,
       "SwimRankGender": 5.0,
       "SwimRankOverall": 42.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 2.0,
       "RunRankGender": 7.0,
       "RunRankOverall": 53.0,
@@ -2845,7 +2845,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2895,7 +2895,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2945,7 +2945,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2975,9 +2975,9 @@
       "SwimRankGroup": 13.0,
       "SwimRankGender": 45.0,
       "SwimRankOverall": 53.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 9.0,
       "RunRankGender": 47.0,
       "RunRankOverall": 54.0,
@@ -2995,7 +2995,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3045,7 +3045,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3095,7 +3095,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3145,7 +3145,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3195,7 +3195,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3245,7 +3245,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3295,7 +3295,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3345,7 +3345,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3375,9 +3375,9 @@
       "SwimRankGroup": 15.0,
       "SwimRankGender": 87.0,
       "SwimRankOverall": 103.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 9.0,
       "RunRankGender": 36.0,
       "RunRankOverall": 40.0,
@@ -3395,7 +3395,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3425,9 +3425,9 @@
       "SwimRankGroup": 6.0,
       "SwimRankGender": 76.0,
       "SwimRankOverall": 91.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 5.0,
       "RunRankGender": 38.0,
       "RunRankOverall": 42.0,
@@ -3445,7 +3445,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3495,7 +3495,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3545,7 +3545,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3595,7 +3595,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3645,7 +3645,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3675,9 +3675,9 @@
       "SwimRankGroup": 15.0,
       "SwimRankGender": 72.0,
       "SwimRankOverall": 85.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 12.0,
       "RunRankGender": 55.0,
       "RunRankOverall": 64.0,
@@ -3695,7 +3695,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3745,7 +3745,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3795,7 +3795,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3835,7 +3835,7 @@
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
       "RankPoints": 350,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "PH"
       },
@@ -3892,7 +3892,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3942,7 +3942,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3992,7 +3992,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4042,7 +4042,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4092,7 +4092,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4142,7 +4142,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4192,7 +4192,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4242,7 +4242,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4272,9 +4272,9 @@
       "SwimRankGroup": 18.0,
       "SwimRankGender": 69.0,
       "SwimRankOverall": 81.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 18.0,
       "RunRankGender": 71.0,
       "RunRankOverall": 82.0,
@@ -4292,7 +4292,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4342,7 +4342,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4392,7 +4392,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4442,7 +4442,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4482,7 +4482,7 @@
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
       "RankPoints": 350,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "PH"
       },
@@ -4539,7 +4539,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4589,7 +4589,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4619,9 +4619,9 @@
       "SwimRankGroup": 17.0,
       "SwimRankGender": 79.0,
       "SwimRankOverall": 94.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 16.0,
       "RunRankGender": 77.0,
       "RunRankOverall": 89.0,
@@ -4639,7 +4639,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4689,7 +4689,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4719,9 +4719,9 @@
       "SwimRankGroup": 3.0,
       "SwimRankGender": 15.0,
       "SwimRankOverall": 90.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 3.0,
       "RunRankGender": 13.0,
       "RunRankOverall": 96.0,
@@ -4739,7 +4739,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4779,7 +4779,7 @@
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
       "RankPoints": 350,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "PH"
       },
@@ -4836,7 +4836,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4886,7 +4886,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4936,7 +4936,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4986,7 +4986,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5016,12 +5016,12 @@
       "SwimRankGroup": 16.0,
       "SwimRankGender": 89.0,
       "SwimRankOverall": 105.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -5036,7 +5036,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5066,9 +5066,9 @@
       "SwimRankGroup": 3.0,
       "SwimRankGender": 90.0,
       "SwimRankOverall": 106.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 4.0,
       "RunRankGender": 86.0,
       "RunRankOverall": 100.0,
@@ -5086,7 +5086,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5116,9 +5116,9 @@
       "SwimRankGroup": 7.0,
       "SwimRankGender": 59.0,
       "SwimRankOverall": 69.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 7.0,
       "RunRankGender": 90.0,
       "RunRankOverall": 105.0,
@@ -5136,7 +5136,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5166,9 +5166,9 @@
       "SwimRankGroup": 6.0,
       "SwimRankGender": 78.0,
       "SwimRankOverall": 93.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 6.0,
       "RunRankGender": 87.0,
       "RunRankOverall": 101.0,
@@ -5186,7 +5186,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5236,7 +5236,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5266,9 +5266,9 @@
       "SwimRankGroup": 27.0,
       "SwimRankGender": 102.0,
       "SwimRankOverall": 120.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 22.0,
       "RunRankGender": 84.0,
       "RunRankOverall": 97.0,
@@ -5286,7 +5286,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5336,7 +5336,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5376,7 +5376,7 @@
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
       "RankPoints": 350,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "PH"
       },
@@ -5433,7 +5433,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5483,7 +5483,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5533,7 +5533,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5563,9 +5563,9 @@
       "SwimRankGroup": 6.0,
       "SwimRankGender": 26.0,
       "SwimRankOverall": 30.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 24.0,
       "RunRankGender": 94.0,
       "RunRankOverall": 110.0,
@@ -5583,7 +5583,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5633,7 +5633,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5683,7 +5683,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5713,9 +5713,9 @@
       "SwimRankGroup": 19.0,
       "SwimRankGender": 93.0,
       "SwimRankOverall": 109.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 18.0,
       "RunRankGender": 93.0,
       "RunRankOverall": 109.0,
@@ -5733,7 +5733,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5783,7 +5783,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5833,7 +5833,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5883,7 +5883,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5907,18 +5907,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -5933,7 +5933,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5957,18 +5957,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -5983,7 +5983,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6007,18 +6007,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6033,7 +6033,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6057,18 +6057,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6083,7 +6083,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6107,18 +6107,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6133,7 +6133,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6157,18 +6157,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6183,7 +6183,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6207,18 +6207,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6233,7 +6233,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6257,23 +6257,23 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
       "RankPoints": 0,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "PH"
       },
@@ -6304,18 +6304,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6330,7 +6330,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6354,18 +6354,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6380,7 +6380,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6404,18 +6404,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6430,7 +6430,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6454,18 +6454,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6480,7 +6480,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6504,18 +6504,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6530,7 +6530,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6554,18 +6554,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6580,7 +6580,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6604,18 +6604,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6630,7 +6630,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6654,18 +6654,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6680,7 +6680,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6704,18 +6704,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6730,7 +6730,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6754,18 +6754,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 1.0,
       "SwimRankGender": 1.0,
       "SwimRankOverall": 1.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6780,7 +6780,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6804,18 +6804,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6830,7 +6830,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6854,18 +6854,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6880,7 +6880,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6904,18 +6904,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -6930,7 +6930,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6954,23 +6954,23 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
       "RankPoints": 0,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "PH"
       },
@@ -7001,18 +7001,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7027,7 +7027,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7051,18 +7051,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7077,7 +7077,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7101,18 +7101,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7127,7 +7127,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7151,18 +7151,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7177,7 +7177,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7201,18 +7201,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7227,7 +7227,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7251,18 +7251,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7277,7 +7277,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7301,18 +7301,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7327,7 +7327,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7351,18 +7351,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7377,7 +7377,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7401,18 +7401,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7427,7 +7427,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7451,18 +7451,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 20.0,
       "SwimRankGender": 95.0,
       "SwimRankOverall": 112.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7477,7 +7477,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7501,18 +7501,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7527,7 +7527,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7551,18 +7551,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7577,7 +7577,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7601,18 +7601,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7627,7 +7627,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7651,18 +7651,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7677,7 +7677,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7701,18 +7701,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7727,7 +7727,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7751,18 +7751,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7777,7 +7777,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7801,18 +7801,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 1.0,
       "SwimRankGender": 64.0,
       "SwimRankOverall": 75.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7827,7 +7827,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7851,18 +7851,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 18.0,
       "SwimRankGender": 104.0,
       "SwimRankOverall": 122.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2024-02-19T14:39:22.263Z",
       "StatusCode": 1,
       "SubEventId": "3C8B7C69-2B78-4089-B53F-F1EF2C401EE7",
@@ -7877,7 +7877,7 @@
       "Subevent": {
         "SubEvent": "2024 5150 Cam Sur"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     }
   ]

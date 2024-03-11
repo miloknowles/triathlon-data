@@ -48,7 +48,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -98,7 +98,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -148,7 +148,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -198,7 +198,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -248,7 +248,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -298,7 +298,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -348,7 +348,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -398,7 +398,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -448,7 +448,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -488,7 +488,7 @@
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
       "RankPoints": 3119,
-      "Contact": null,
+      "Contact": -1,
       "Country": {
         "ISO2": "AU"
       },
@@ -545,7 +545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -595,7 +595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -645,7 +645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -695,7 +695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -745,7 +745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -795,7 +795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -845,7 +845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -895,7 +895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -945,7 +945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -995,7 +995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1045,7 +1045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1095,7 +1095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1145,7 +1145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1195,7 +1195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1245,7 +1245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1295,7 +1295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1345,7 +1345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1395,7 +1395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1445,7 +1445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1495,7 +1495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1545,7 +1545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1595,7 +1595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1645,7 +1645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1695,7 +1695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1745,7 +1745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1795,7 +1795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1845,7 +1845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -1895,7 +1895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1945,7 +1945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -1995,7 +1995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2045,7 +2045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2095,7 +2095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2145,7 +2145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2195,7 +2195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2245,7 +2245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2295,7 +2295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2345,7 +2345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2395,7 +2395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2445,7 +2445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2495,7 +2495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2545,7 +2545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -2595,7 +2595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2645,7 +2645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2695,7 +2695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2745,7 +2745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2795,7 +2795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2845,7 +2845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2895,7 +2895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2945,7 +2945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -2995,7 +2995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3045,7 +3045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3095,7 +3095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3145,7 +3145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3195,7 +3195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3245,7 +3245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3295,7 +3295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3345,7 +3345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3395,7 +3395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3445,7 +3445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3495,7 +3495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3545,7 +3545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3595,7 +3595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3645,7 +3645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3695,7 +3695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3745,7 +3745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -3795,7 +3795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3845,7 +3845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3895,7 +3895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3945,7 +3945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -3995,7 +3995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4045,7 +4045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4095,7 +4095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4145,7 +4145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4195,7 +4195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4245,7 +4245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4295,7 +4295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4345,7 +4345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4395,7 +4395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4445,7 +4445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4495,7 +4495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4545,7 +4545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4595,7 +4595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4645,7 +4645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4695,7 +4695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4745,7 +4745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4795,7 +4795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4845,7 +4845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4895,7 +4895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -4945,7 +4945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -4995,7 +4995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5045,7 +5045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5095,7 +5095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5145,7 +5145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5195,7 +5195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5245,7 +5245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5295,7 +5295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5345,7 +5345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5395,7 +5395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5445,7 +5445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5495,7 +5495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5545,7 +5545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -5595,7 +5595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5645,7 +5645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5695,7 +5695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5745,7 +5745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5795,7 +5795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5845,7 +5845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5895,7 +5895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5945,7 +5945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -5995,7 +5995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6045,7 +6045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6095,7 +6095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6145,7 +6145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6195,7 +6195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6245,7 +6245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6295,7 +6295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6345,7 +6345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6395,7 +6395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6445,7 +6445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6495,7 +6495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6545,7 +6545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6595,7 +6595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6645,7 +6645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6695,7 +6695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6745,7 +6745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6795,7 +6795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6845,7 +6845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -6895,7 +6895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6945,7 +6945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -6995,7 +6995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7045,7 +7045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7095,7 +7095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7145,7 +7145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7195,7 +7195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7245,7 +7245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7295,7 +7295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7345,7 +7345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7395,7 +7395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7445,7 +7445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7495,7 +7495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7545,7 +7545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7595,7 +7595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7645,7 +7645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7695,7 +7695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7745,7 +7745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7795,7 +7795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7845,7 +7845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7895,7 +7895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -7945,7 +7945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -7995,7 +7995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8045,7 +8045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8095,7 +8095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8145,7 +8145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8195,7 +8195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -8245,7 +8245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8295,7 +8295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8345,7 +8345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -8395,7 +8395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8445,7 +8445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -8495,7 +8495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8545,7 +8545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8595,7 +8595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8645,7 +8645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8695,7 +8695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -8745,7 +8745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8795,7 +8795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -8845,7 +8845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -8895,7 +8895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -8945,7 +8945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -8995,7 +8995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9045,7 +9045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9095,7 +9095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9145,7 +9145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9195,7 +9195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9245,7 +9245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9295,7 +9295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9345,7 +9345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9395,7 +9395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9445,7 +9445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9495,7 +9495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9545,7 +9545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9595,7 +9595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9645,7 +9645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9695,7 +9695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9745,7 +9745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9795,7 +9795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9845,7 +9845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -9895,7 +9895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9945,7 +9945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -9995,7 +9995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10045,7 +10045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10095,7 +10095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10145,7 +10145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10195,7 +10195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10245,7 +10245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10295,7 +10295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10345,7 +10345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10395,7 +10395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10445,7 +10445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10495,7 +10495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10545,7 +10545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10595,7 +10595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10645,7 +10645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10695,7 +10695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10745,7 +10745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10795,7 +10795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10845,7 +10845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10895,7 +10895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -10945,7 +10945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -10995,7 +10995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11045,7 +11045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11095,7 +11095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11145,7 +11145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11195,7 +11195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11245,7 +11245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11295,7 +11295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11345,7 +11345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11395,7 +11395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11445,7 +11445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11495,7 +11495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11545,7 +11545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11595,7 +11595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11645,7 +11645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -11695,7 +11695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11745,7 +11745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11795,7 +11795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11845,7 +11845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11895,7 +11895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -11945,7 +11945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -11995,7 +11995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12045,7 +12045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12095,7 +12095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12145,7 +12145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -12195,7 +12195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12245,7 +12245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -12295,7 +12295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12345,7 +12345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12395,7 +12395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12445,7 +12445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -12495,7 +12495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12545,7 +12545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12595,7 +12595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12645,7 +12645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12695,7 +12695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -12745,7 +12745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12795,7 +12795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12845,7 +12845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12895,7 +12895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12945,7 +12945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -12995,7 +12995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13045,7 +13045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -13095,7 +13095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13145,7 +13145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13195,7 +13195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13245,7 +13245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13295,7 +13295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13345,7 +13345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13395,7 +13395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13445,7 +13445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13495,7 +13495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -13545,7 +13545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13595,7 +13595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13645,7 +13645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13695,7 +13695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -13745,7 +13745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -13795,7 +13795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -13845,7 +13845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -13895,7 +13895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -13945,7 +13945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -13995,7 +13995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14045,7 +14045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14095,7 +14095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14145,7 +14145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14195,7 +14195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14245,7 +14245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14295,7 +14295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14345,7 +14345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14395,7 +14395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14445,7 +14445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14495,7 +14495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14545,7 +14545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14595,7 +14595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14645,7 +14645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14695,7 +14695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14745,7 +14745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14795,7 +14795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14845,7 +14845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -14895,7 +14895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14945,7 +14945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -14995,7 +14995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15045,7 +15045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15095,7 +15095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15145,7 +15145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15195,7 +15195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15245,7 +15245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15295,7 +15295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15345,7 +15345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15395,7 +15395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15445,7 +15445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15495,7 +15495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15545,7 +15545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15595,7 +15595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15645,7 +15645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15695,7 +15695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15745,7 +15745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -15795,7 +15795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15845,7 +15845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15895,7 +15895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15945,7 +15945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -15995,7 +15995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16045,7 +16045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16095,7 +16095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16145,7 +16145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16195,7 +16195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16245,7 +16245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16295,7 +16295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16345,7 +16345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16395,7 +16395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16445,7 +16445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16495,7 +16495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16545,7 +16545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16595,7 +16595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16645,7 +16645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16695,7 +16695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16745,7 +16745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -16795,7 +16795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16845,7 +16845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16895,7 +16895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16945,7 +16945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -16995,7 +16995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17045,7 +17045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17095,7 +17095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17145,7 +17145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17195,7 +17195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17245,7 +17245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17295,7 +17295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17345,7 +17345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17395,7 +17395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17445,7 +17445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17495,7 +17495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17545,7 +17545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17595,7 +17595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17645,7 +17645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17695,7 +17695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17745,7 +17745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17795,7 +17795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17845,7 +17845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17895,7 +17895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -17945,7 +17945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -17995,7 +17995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18045,7 +18045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18095,7 +18095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18145,7 +18145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18195,7 +18195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18245,7 +18245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18295,7 +18295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18345,7 +18345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18395,7 +18395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18445,7 +18445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18495,7 +18495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18545,7 +18545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18595,7 +18595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -18645,7 +18645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18695,7 +18695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18745,7 +18745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18795,7 +18795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18845,7 +18845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18895,7 +18895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18945,7 +18945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -18995,7 +18995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19045,7 +19045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19095,7 +19095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19145,7 +19145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19195,7 +19195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19245,7 +19245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19295,7 +19295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19345,7 +19345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19395,7 +19395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19445,7 +19445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19495,7 +19495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19545,7 +19545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19595,7 +19595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19645,7 +19645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19695,7 +19695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19745,7 +19745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19795,7 +19795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -19845,7 +19845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19895,7 +19895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19945,7 +19945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -19995,7 +19995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20045,7 +20045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20095,7 +20095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20145,7 +20145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20195,7 +20195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20245,7 +20245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20295,7 +20295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20345,7 +20345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20395,7 +20395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20445,7 +20445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20495,7 +20495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20545,7 +20545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20595,7 +20595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20645,7 +20645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20695,7 +20695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20745,7 +20745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20795,7 +20795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20845,7 +20845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20895,7 +20895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -20945,7 +20945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -20995,7 +20995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21045,7 +21045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21095,7 +21095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21145,7 +21145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -21195,7 +21195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -21245,7 +21245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21295,7 +21295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21345,7 +21345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -21395,7 +21395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -21445,7 +21445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21495,7 +21495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21545,7 +21545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21595,7 +21595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -21645,7 +21645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21695,7 +21695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21745,7 +21745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21795,7 +21795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21845,7 +21845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21895,7 +21895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -21945,7 +21945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -21995,7 +21995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22045,7 +22045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22095,7 +22095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22145,7 +22145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22195,7 +22195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22245,7 +22245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22295,7 +22295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22345,7 +22345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22395,7 +22395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22445,7 +22445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22495,7 +22495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22545,7 +22545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22595,7 +22595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22645,7 +22645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22695,7 +22695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22745,7 +22745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22795,7 +22795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -22845,7 +22845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22895,7 +22895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22945,7 +22945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -22995,7 +22995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23045,7 +23045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23095,7 +23095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23145,7 +23145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23195,7 +23195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23245,7 +23245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23295,7 +23295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23345,7 +23345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23395,7 +23395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23445,7 +23445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "P"
     },
     {
@@ -23495,7 +23495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23545,7 +23545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23595,7 +23595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23645,7 +23645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23695,7 +23695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23745,7 +23745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23795,7 +23795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23845,7 +23845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -23895,7 +23895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23945,7 +23945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -23995,7 +23995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24045,7 +24045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24095,7 +24095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24145,7 +24145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24195,7 +24195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24245,7 +24245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24275,9 +24275,9 @@
       "SwimRankGroup": 21.0,
       "SwimRankGender": 163.0,
       "SwimRankOverall": 231.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 6.0,
       "RunRankGender": 55.0,
       "RunRankOverall": 74.0,
@@ -24295,7 +24295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24325,9 +24325,9 @@
       "SwimRankGroup": 32.0,
       "SwimRankGender": 173.0,
       "SwimRankOverall": 244.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 8.0,
       "RunRankGender": 58.0,
       "RunRankOverall": 79.0,
@@ -24345,7 +24345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24375,9 +24375,9 @@
       "SwimRankGroup": 10.0,
       "SwimRankGender": 72.0,
       "SwimRankOverall": 246.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 16.0,
       "RunRankGender": 91.0,
       "RunRankOverall": 311.0,
@@ -24395,7 +24395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24425,9 +24425,9 @@
       "SwimRankGroup": 5.0,
       "SwimRankGender": 296.0,
       "SwimRankOverall": 414.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 3.0,
       "RunRankGender": 252.0,
       "RunRankOverall": 358.0,
@@ -24445,7 +24445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24475,9 +24475,9 @@
       "SwimRankGroup": 39.0,
       "SwimRankGender": 233.0,
       "SwimRankOverall": 325.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 60.0,
       "RunRankGender": 313.0,
       "RunRankOverall": 445.0,
@@ -24495,7 +24495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24525,9 +24525,9 @@
       "SwimRankGroup": 14.0,
       "SwimRankGender": 308.0,
       "SwimRankOverall": 430.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 15.0,
       "RunRankGender": 302.0,
       "RunRankOverall": 431.0,
@@ -24545,7 +24545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24575,9 +24575,9 @@
       "SwimRankGroup": 48.0,
       "SwimRankGender": 288.0,
       "SwimRankOverall": 401.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 54.0,
       "RunRankGender": 297.0,
       "RunRankOverall": 425.0,
@@ -24595,7 +24595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24625,9 +24625,9 @@
       "SwimRankGroup": 60.0,
       "SwimRankGender": 353.0,
       "SwimRankOverall": 505.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 58.0,
       "RunRankGender": 317.0,
       "RunRankOverall": 450.0,
@@ -24645,7 +24645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24675,9 +24675,9 @@
       "SwimRankGroup": 72.0,
       "SwimRankGender": 354.0,
       "SwimRankOverall": 506.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 70.0,
       "RunRankGender": 340.0,
       "RunRankOverall": 483.0,
@@ -24695,7 +24695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24722,12 +24722,12 @@
       "FinishRankGroup": 18.0,
       "FinishRankGender": 112.0,
       "FinishRankOverall": 392.0,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
       "RunRankGroup": 23.0,
       "RunRankGender": 148.0,
       "RunRankOverall": 495.0,
@@ -24745,7 +24745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24769,18 +24769,18 @@
       "Transition2Time": 156,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 3.0,
       "SwimRankGender": 31.0,
       "SwimRankOverall": 52.0,
       "BikeRankGroup": 1.0,
       "BikeRankGender": 27.0,
       "BikeRankOverall": 35.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2021-09-29T19:00:11.463Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -24795,7 +24795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24819,18 +24819,18 @@
       "Transition2Time": 426,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 9.0,
       "SwimRankGender": 119.0,
       "SwimRankOverall": 414.0,
       "BikeRankGroup": 12.0,
       "BikeRankGender": 139.0,
       "BikeRankOverall": 484.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -24845,7 +24845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -24869,18 +24869,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -24895,7 +24895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24919,18 +24919,18 @@
       "Transition2Time": 82,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 1.0,
       "SwimRankGender": 15.0,
       "SwimRankOverall": 24.0,
       "BikeRankGroup": 5.0,
       "BikeRankGender": 30.0,
       "BikeRankOverall": 39.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -24945,7 +24945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -24969,18 +24969,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 12.0,
       "SwimRankGender": 359.0,
       "SwimRankOverall": 513.0,
       "BikeRankGroup": 12.0,
       "BikeRankGender": 359.0,
       "BikeRankOverall": 508.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2020-12-16T18:00:30.570Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -24995,7 +24995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25019,18 +25019,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25045,7 +25045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25069,9 +25069,9 @@
       "Transition2Time": 621,
       "RunTime": 9638,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 21.0,
       "SwimRankGender": 131.0,
       "SwimRankOverall": 447.0,
@@ -25095,7 +25095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25119,18 +25119,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25145,7 +25145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25169,18 +25169,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 4.0,
       "SwimRankGender": 5.0,
       "SwimRankOverall": 16.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25195,7 +25195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25219,18 +25219,18 @@
       "Transition2Time": 505,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 66.0,
       "SwimRankGender": 336.0,
       "SwimRankOverall": 476.0,
       "BikeRankGroup": 71.0,
       "BikeRankGender": 352.0,
       "BikeRankOverall": 500.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25245,7 +25245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25269,18 +25269,18 @@
       "Transition2Time": 515,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 50.0,
       "SwimRankGender": 358.0,
       "SwimRankOverall": 511.0,
       "BikeRankGroup": 45.0,
       "BikeRankGender": 325.0,
       "BikeRankOverall": 448.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25295,7 +25295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25319,18 +25319,18 @@
       "Transition2Time": 110,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 1.0,
       "SwimRankGender": 28.0,
       "SwimRankOverall": 45.0,
       "BikeRankGroup": 6.0,
       "BikeRankGender": 64.0,
       "BikeRankOverall": 76.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25345,7 +25345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25369,18 +25369,18 @@
       "Transition2Time": 596,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
       "BikeRankGroup": 7.0,
       "BikeRankGender": 348.0,
       "BikeRankOverall": 490.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25395,7 +25395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25419,9 +25419,9 @@
       "Transition2Time": 364,
       "RunTime": 12379,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 22.0,
       "SwimRankGender": 346.0,
       "SwimRankOverall": 495.0,
@@ -25445,7 +25445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25469,18 +25469,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 22.0,
       "SwimRankGender": 138.0,
       "SwimRankOverall": 473.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25495,7 +25495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25519,12 +25519,12 @@
       "Transition2Time": 341,
       "RunTime": 24327,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
       "BikeRankGroup": 23.0,
       "BikeRankGender": 360.0,
       "BikeRankOverall": 512.0,
@@ -25545,7 +25545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25569,18 +25569,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2020-11-03T19:11:30.260Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25595,7 +25595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25619,9 +25619,9 @@
       "Transition2Time": 790,
       "RunTime": 11074,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 76.0,
       "SwimRankGender": 366.0,
       "SwimRankOverall": 525.0,
@@ -25645,7 +25645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25669,18 +25669,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25695,7 +25695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25719,18 +25719,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 24.0,
       "SwimRankGender": 152.0,
       "SwimRankOverall": 508.0,
       "BikeRankGroup": 23.0,
       "BikeRankGender": 151.0,
       "BikeRankOverall": 511.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25745,7 +25745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -25769,18 +25769,18 @@
       "Transition2Time": 308,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 8.0,
       "SwimRankGender": 61.0,
       "SwimRankOverall": 90.0,
       "BikeRankGroup": 20.0,
       "BikeRankGender": 142.0,
       "BikeRankOverall": 175.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2021-12-14T18:40:13.723Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25795,7 +25795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25819,18 +25819,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 9.0,
       "SwimRankGender": 307.0,
       "SwimRankOverall": 429.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25845,7 +25845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25869,18 +25869,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25895,7 +25895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25919,18 +25919,18 @@
       "Transition2Time": 272,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 58.0,
       "SwimRankGender": 313.0,
       "SwimRankOverall": 441.0,
       "BikeRankGroup": 68.0,
       "BikeRankGender": 339.0,
       "BikeRankOverall": 475.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -25945,7 +25945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -25969,9 +25969,9 @@
       "Transition2Time": 236,
       "RunTime": 9941,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 25.0,
       "SwimRankGender": 160.0,
       "SwimRankOverall": 529.0,
@@ -25995,7 +25995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26019,18 +26019,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 13.0,
       "SwimRankGender": 144.0,
       "SwimRankOverall": 486.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26045,7 +26045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26069,18 +26069,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 10.0,
       "SwimRankGender": 95.0,
       "SwimRankOverall": 339.0,
       "BikeRankGroup": 11.0,
       "BikeRankGender": 99.0,
       "BikeRankOverall": 392.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-06-06T21:40:12.453Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26095,7 +26095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26119,18 +26119,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 9.0,
       "SwimRankGender": 10.0,
       "SwimRankOverall": 30.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-10-06T17:20:15.493Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26145,7 +26145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26169,18 +26169,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 19.0,
       "SwimRankGender": 102.0,
       "SwimRankOverall": 368.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26195,7 +26195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26219,18 +26219,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 17.0,
       "SwimRankGender": 23.0,
       "SwimRankOverall": 33.0,
       "BikeRankGroup": 17.0,
       "BikeRankGender": 35.0,
       "BikeRankOverall": 46.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26245,7 +26245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26269,9 +26269,9 @@
       "Transition2Time": 436,
       "RunTime": 12513,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 2.0,
       "SwimRankGender": 360.0,
       "SwimRankOverall": 516.0,
@@ -26295,7 +26295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26319,9 +26319,9 @@
       "Transition2Time": 311,
       "RunTime": 12046,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 47.0,
       "SwimRankGender": 339.0,
       "SwimRankOverall": 481.0,
@@ -26345,7 +26345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26369,18 +26369,18 @@
       "Transition2Time": 343,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 33.0,
       "SwimRankGender": 203.0,
       "SwimRankOverall": 287.0,
       "BikeRankGroup": 48.0,
       "BikeRankGender": 244.0,
       "BikeRankOverall": 319.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-03-12T04:10:19.567Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26395,7 +26395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26419,18 +26419,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2023-04-04T15:40:58.337Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26445,7 +26445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26469,18 +26469,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2023-01-18T18:16:09.533Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26495,7 +26495,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26519,18 +26519,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26545,7 +26545,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26569,18 +26569,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 7.0,
       "SwimRankGender": 60.0,
       "SwimRankOverall": 205.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26595,7 +26595,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26619,9 +26619,9 @@
       "Transition2Time": 203,
       "RunTime": 10834,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 74.0,
       "SwimRankGender": 361.0,
       "SwimRankOverall": 517.0,
@@ -26645,7 +26645,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26669,18 +26669,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 51.0,
       "SwimRankGender": 278.0,
       "SwimRankOverall": 385.0,
       "BikeRankGroup": 74.0,
       "BikeRankGender": 361.0,
       "BikeRankOverall": 513.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26695,7 +26695,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26719,18 +26719,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 59.0,
       "SwimRankGender": 337.0,
       "SwimRankOverall": 477.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26745,7 +26745,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26769,18 +26769,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2021-12-22T21:30:16.153Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26795,7 +26795,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26819,18 +26819,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26845,7 +26845,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -26869,18 +26869,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2022-04-06T20:10:15.863Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26895,7 +26895,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26919,18 +26919,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26945,7 +26945,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -26969,18 +26969,18 @@
       "Transition2Time": 477,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 23.0,
       "SwimRankGender": 370.0,
       "SwimRankOverall": 532.0,
       "BikeRankGroup": 20.0,
       "BikeRankGender": 332.0,
       "BikeRankOverall": 460.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2020-02-15T16:30:29.727Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -26995,7 +26995,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27019,18 +27019,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 4.0,
       "SwimRankGender": 33.0,
       "SwimRankOverall": 102.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2023-07-24T22:02:14.220Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27045,7 +27045,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -27069,18 +27069,18 @@
       "Transition2Time": 294,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 33.0,
       "SwimRankGender": 240.0,
       "SwimRankOverall": 334.0,
       "BikeRankGroup": 46.0,
       "BikeRankGender": 334.0,
       "BikeRankOverall": 462.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27095,7 +27095,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27119,18 +27119,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
-      "SwimRankGroup": NaN,
-      "SwimRankGender": NaN,
-      "SwimRankOverall": NaN,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
+      "SwimRankGroup": -1.0,
+      "SwimRankGender": -1.0,
+      "SwimRankOverall": -1.0,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27145,7 +27145,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -27169,18 +27169,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 6.0,
       "SwimRankGender": 56.0,
       "SwimRankOverall": 83.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27195,7 +27195,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27219,18 +27219,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 23.0,
       "SwimRankGender": 127.0,
       "SwimRankOverall": 438.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27245,7 +27245,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -27269,18 +27269,18 @@
       "Transition2Time": 0,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 16.0,
       "SwimRankGender": 122.0,
       "SwimRankOverall": 426.0,
-      "BikeRankGroup": NaN,
-      "BikeRankGender": NaN,
-      "BikeRankOverall": NaN,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "BikeRankGroup": -1.0,
+      "BikeRankGender": -1.0,
+      "BikeRankOverall": -1.0,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27295,7 +27295,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     },
     {
@@ -27319,18 +27319,18 @@
       "Transition2Time": 110,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 1.0,
       "SwimRankGender": 12.0,
       "SwimRankOverall": 18.0,
       "BikeRankGroup": 3.0,
       "BikeRankGender": 39.0,
       "BikeRankOverall": 50.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2023-03-01T17:01:04.950Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27345,7 +27345,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27369,18 +27369,18 @@
       "Transition2Time": 482,
       "RunTime": 0,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 42.0,
       "SwimRankGender": 215.0,
       "SwimRankOverall": 303.0,
       "BikeRankGroup": 34.0,
       "BikeRankGender": 187.0,
       "BikeRankOverall": 236.0,
-      "RunRankGroup": NaN,
-      "RunRankGender": NaN,
-      "RunRankOverall": NaN,
+      "RunRankGroup": -1.0,
+      "RunRankGender": -1.0,
+      "RunRankOverall": -1.0,
       "SyncDate": "2019-08-15T15:35:53.620Z",
       "StatusCode": 1,
       "SubEventId": "4DE11ED5-31BB-E611-9410-005056951BF1",
@@ -27395,7 +27395,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "M"
     },
     {
@@ -27419,9 +27419,9 @@
       "Transition2Time": 225,
       "RunTime": 12577,
       "FinishTime": 0,
-      "FinishRankGroup": NaN,
-      "FinishRankGender": NaN,
-      "FinishRankOverall": NaN,
+      "FinishRankGroup": -1.0,
+      "FinishRankGender": -1.0,
+      "FinishRankOverall": -1.0,
       "SwimRankGroup": 15.0,
       "SwimRankGender": 113.0,
       "SwimRankOverall": 400.0,
@@ -27445,7 +27445,7 @@
       "Subevent": {
         "SubEvent": "2017 IRONMAN 70.3 Los Cabos"
       },
-      "ContactLastName": NaN,
+      "ContactLastName": -1,
       "Gender": "F"
     }
   ]

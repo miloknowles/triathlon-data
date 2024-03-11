@@ -13,9 +13,9 @@
       "ResultId": "AA33D262-5697-E411-93FC-005056951BF1",
       "ContactId": "A93D3EE3-7969-4F0F-95EB-8AD99C555D49",
       "AgeGroup": "M50-54",
-      "CountryRepresentingISONumeric": null,
+      "CountryRepresentingISONumeric": -1,
       "BibNumber": 70,
-      "EventStatus": null,
+      "EventStatus": -1,
       "SwimTime": 1880,
       "Transition1Time": 1,
       "BikeTime": 9054,
@@ -42,7 +42,7 @@
         "FullName": "John Ackell",
         "Gender": "M"
       },
-      "Country": null,
+      "Country": -1,
       "Subevent": {
         "SubEvent": "2014 IRONMAN 70.3 Superfrog"
       },
@@ -60,9 +60,9 @@
       "ResultId": "C123F676-5697-E411-93FC-005056951BF1",
       "ContactId": "B4F9AE7C-41C1-4F37-AD50-243FC04099B6",
       "AgeGroup": "F40-44",
-      "CountryRepresentingISONumeric": null,
+      "CountryRepresentingISONumeric": -1,
       "BibNumber": 70,
-      "EventStatus": null,
+      "EventStatus": -1,
       "SwimTime": 108480,
       "Transition1Time": 1,
       "BikeTime": 10582,
@@ -89,7 +89,7 @@
         "FullName": "Noelle Darden",
         "Gender": "F"
       },
-      "Country": null,
+      "Country": -1,
       "Subevent": {
         "SubEvent": "2014 IRONMAN 70.3 Superfrog"
       },
@@ -107,9 +107,9 @@
       "ResultId": "7244994A-5697-E411-93FC-005056951BF1",
       "ContactId": "3829789B-58E4-4590-9639-E457C421276C",
       "AgeGroup": "M30-34",
-      "CountryRepresentingISONumeric": null,
+      "CountryRepresentingISONumeric": -1,
       "BibNumber": 54,
-      "EventStatus": null,
+      "EventStatus": -1,
       "SwimTime": 3352,
       "Transition1Time": 1,
       "BikeTime": 11017,
@@ -136,7 +136,7 @@
         "FullName": "Jim Spiegel",
         "Gender": "M"
       },
-      "Country": null,
+      "Country": -1,
       "Subevent": {
         "SubEvent": "2014 IRONMAN 70.3 Superfrog"
       },
@@ -154,9 +154,9 @@
       "ResultId": "2BFF683A-5697-E411-93FC-005056951BF1",
       "ContactId": "B54CA8DE-09AF-477C-A2A4-FEFBAB3F48C0",
       "AgeGroup": "M25-29",
-      "CountryRepresentingISONumeric": null,
+      "CountryRepresentingISONumeric": -1,
       "BibNumber": 57,
-      "EventStatus": null,
+      "EventStatus": -1,
       "SwimTime": 2985,
       "Transition1Time": 1,
       "BikeTime": 1130,
@@ -183,7 +183,7 @@
         "FullName": "Kris Fuentes",
         "Gender": "M"
       },
-      "Country": null,
+      "Country": -1,
       "Subevent": {
         "SubEvent": "2014 IRONMAN 70.3 Superfrog"
       },
@@ -201,9 +201,9 @@
       "ResultId": "3BAF888C-5697-E411-93FC-005056951BF1",
       "ContactId": "802103D2-41A2-4716-ABD5-D4D8BC270B1F",
       "AgeGroup": "F50-54",
-      "CountryRepresentingISONumeric": null,
+      "CountryRepresentingISONumeric": -1,
       "BibNumber": 76,
-      "EventStatus": null,
+      "EventStatus": -1,
       "SwimTime": 2986,
       "Transition1Time": 1,
       "BikeTime": 12019,
@@ -230,7 +230,7 @@
         "FullName": "Kathy Dillingham",
         "Gender": "F"
       },
-      "Country": null,
+      "Country": -1,
       "Subevent": {
         "SubEvent": "2014 IRONMAN 70.3 Superfrog"
       },
@@ -248,9 +248,9 @@
       "ResultId": "FEE42F5B-5697-E411-93FC-005056951BF1",
       "ContactId": "8F5FFAED-7CDA-46B2-9078-9199D20B9312",
       "AgeGroup": "M30-34",
-      "CountryRepresentingISONumeric": null,
+      "CountryRepresentingISONumeric": -1,
       "BibNumber": 45,
-      "EventStatus": null,
+      "EventStatus": -1,
       "SwimTime": 1,
       "Transition1Time": 1,
       "BikeTime": 1,
@@ -277,7 +277,7 @@
         "FullName": "Carl Pestelos",
         "Gender": "M"
       },
-      "Country": null,
+      "Country": -1,
       "Subevent": {
         "SubEvent": "2014 IRONMAN 70.3 Superfrog"
       },
